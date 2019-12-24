@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Actions demo",
+    "children" : [ {
+      "name" : "Actions demo",
+      "children" : [ {
+        "name" : "ActionsDemoTests",
+        "children" : [ {
+          "name" : "Broken test",
+          "uid" : "5abf619dd8b84695",
+          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
+          "status" : "failed",
+          "time" : {
+            "start" : 1577107962913,
+            "stop" : 1577107968516,
+            "duration" : 5603
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Drag-n-drop test",
+          "uid" : "90cdeda3d1f7dbb7",
+          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1577107968590,
+            "stop" : 1577107972333,
+            "duration" : 3743
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Resize test",
+          "uid" : "35918955c60b2449",
+          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1577107972335,
+            "stop" : 1577107975696,
+            "duration" : 3361
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Selecting test",
+          "uid" : "6cb9822b0b3addad",
+          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1577107975698,
+            "stop" : 1577107978265,
+            "duration" : 2567
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c"
+      } ],
+      "uid" : "8ad443ea63345ee22dbf900bd2df2d68"
+    } ],
+    "uid" : "65f53345076f6553e24b813cc4d2c444"
+  } ]
+}

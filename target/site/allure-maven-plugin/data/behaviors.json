@@ -1,0 +1,53 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Broken test",
+    "uid" : "5abf619dd8b84695",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1577107962913,
+      "stop" : 1577107968516,
+      "duration" : 5603
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Drag-n-drop test",
+    "uid" : "90cdeda3d1f7dbb7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1577107968590,
+      "stop" : 1577107972333,
+      "duration" : 3743
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Resize test",
+    "uid" : "35918955c60b2449",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1577107972335,
+      "stop" : 1577107975696,
+      "duration" : 3361
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Selecting test",
+    "uid" : "6cb9822b0b3addad",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1577107975698,
+      "stop" : 1577107978265,
+      "duration" : 2567
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

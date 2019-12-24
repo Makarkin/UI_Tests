@@ -1,0 +1,9 @@
+pages\SelectablePage.class
+ActionsDemoTests.class
+pages\DroppablePage.class
+pages\MainPage.class
+reporting\MyLogger.class
+pages\AbstractPage.class
+browser\Browser.class
+pages\ResizablePage.class
+Runner.class

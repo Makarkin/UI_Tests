@@ -1,0 +1,18 @@
+# Created on 2019-12-23T17:32:32.579
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2019-12-23T17:32:32.579
+WARNING: Illegal reflective access by org.testng.xml.XMLParser (file:/C:/Users/Stanislav_Makarkin/.m2/repository/org/testng/testng/6.11/testng-6.11.jar) to constructor com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl()
+
+# Created on 2019-12-23T17:32:32.579
+WARNING: Please consider reporting this to the maintainers of org.testng.xml.XMLParser
+
+# Created on 2019-12-23T17:32:32.580
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2019-12-23T17:32:32.580
+WARNING: All illegal access operations will be denied in a future release
+
+# Created on 2019-12-23T17:32:32.993
+[AppClassLoader@2626b418] warning javax.* types are not being woven because the weaver option '-Xset:weaveJavaxPackages=true' has not been specified
+

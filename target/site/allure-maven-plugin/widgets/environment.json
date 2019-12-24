@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "2.6.0" ],
+  "name" : "allure-testng.version"
+}, {
+  "values" : [ "Windows 10 Pro" ],
+  "name" : "OS.version"
+}, {
+  "values" : [ "2.9" ],
+  "name" : "allure-maven.version"
+}, {
+  "values" : [ "Apache Maven 3.5.2" ],
+  "name" : "MAVEN.version"
+}, {
+  "values" : [ "jdk1.8.0_162" ],
+  "name" : "JDK.version"
+} ]

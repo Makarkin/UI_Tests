@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "EPRUSARW1779",
+    "children" : [ {
+      "name" : "13560@EPRUSARW1779.TestNG-test=Actions demo-1(16)",
+      "children" : [ {
+        "name" : "Resize test",
+        "uid" : "35918955c60b2449",
+        "parentUid" : "77ee39d7a17e7e6df7b6a83555823f3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1577107972335,
+          "stop" : 1577107975696,
+          "duration" : 3361
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Drag-n-drop test",
+        "uid" : "90cdeda3d1f7dbb7",
+        "parentUid" : "77ee39d7a17e7e6df7b6a83555823f3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1577107968590,
+          "stop" : 1577107972333,
+          "duration" : 3743
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selecting test",
+        "uid" : "6cb9822b0b3addad",
+        "parentUid" : "77ee39d7a17e7e6df7b6a83555823f3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1577107975698,
+          "stop" : 1577107978265,
+          "duration" : 2567
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Broken test",
+        "uid" : "5abf619dd8b84695",
+        "parentUid" : "77ee39d7a17e7e6df7b6a83555823f3b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1577107962913,
+          "stop" : 1577107968516,
+          "duration" : 5603
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "77ee39d7a17e7e6df7b6a83555823f3b"
+    } ],
+    "uid" : "3f421c2fd4037f0eb852d6dd03812310"
+  } ]
+}
