@@ -1,41 +1,11 @@
 [ {
-  "uid" : "35918955c60b2449",
-  "name" : "Resize test",
+  "uid" : "76ee9c8d1a6ea207",
+  "name" : "googleCloudTest",
   "time" : {
-    "start" : 1577107972335,
-    "stop" : 1577107975696,
-    "duration" : 3361
+    "start" : 1577281756215,
+    "stop" : 1577281791562,
+    "duration" : 35347
   },
   "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "90cdeda3d1f7dbb7",
-  "name" : "Drag-n-drop test",
-  "time" : {
-    "start" : 1577107968590,
-    "stop" : 1577107972333,
-    "duration" : 3743
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6cb9822b0b3addad",
-  "name" : "Selecting test",
-  "time" : {
-    "start" : 1577107975698,
-    "stop" : 1577107978265,
-    "duration" : 2567
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5abf619dd8b84695",
-  "name" : "Broken test",
-  "time" : {
-    "start" : 1577107962913,
-    "stop" : 1577107968516,
-    "duration" : 5603
-  },
-  "status" : "failed",
   "severity" : "normal"
 } ]

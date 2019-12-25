@@ -2,64 +2,28 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "Actions demo",
+    "name" : "Default Suite",
     "children" : [ {
-      "name" : "Actions demo",
+      "name" : "allure-demo",
       "children" : [ {
-        "name" : "ActionsDemoTests",
+        "name" : "googleCloudSelenideDemo.GoogleCloudDemoTests",
         "children" : [ {
-          "name" : "Broken test",
-          "uid" : "5abf619dd8b84695",
-          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
-          "status" : "failed",
-          "time" : {
-            "start" : 1577107962913,
-            "stop" : 1577107968516,
-            "duration" : 5603
-          },
-          "flaky" : false,
-          "parameters" : [ ]
-        }, {
-          "name" : "Drag-n-drop test",
-          "uid" : "90cdeda3d1f7dbb7",
-          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
+          "name" : "googleCloudTest",
+          "uid" : "76ee9c8d1a6ea207",
+          "parentUid" : "b286eb1398a0146533b692662b950762",
           "status" : "passed",
           "time" : {
-            "start" : 1577107968590,
-            "stop" : 1577107972333,
-            "duration" : 3743
-          },
-          "flaky" : false,
-          "parameters" : [ ]
-        }, {
-          "name" : "Resize test",
-          "uid" : "35918955c60b2449",
-          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
-          "status" : "passed",
-          "time" : {
-            "start" : 1577107972335,
-            "stop" : 1577107975696,
-            "duration" : 3361
-          },
-          "flaky" : false,
-          "parameters" : [ ]
-        }, {
-          "name" : "Selecting test",
-          "uid" : "6cb9822b0b3addad",
-          "parentUid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c",
-          "status" : "passed",
-          "time" : {
-            "start" : 1577107975698,
-            "stop" : 1577107978265,
-            "duration" : 2567
+            "start" : 1577281756215,
+            "stop" : 1577281791562,
+            "duration" : 35347
           },
           "flaky" : false,
           "parameters" : [ ]
         } ],
-        "uid" : "2ffff88c91a7b31ccd8fc14c7f6fb80c"
+        "uid" : "b286eb1398a0146533b692662b950762"
       } ],
-      "uid" : "8ad443ea63345ee22dbf900bd2df2d68"
+      "uid" : "ff97bc27b9a0100b28295bf34f35d0f3"
     } ],
-    "uid" : "65f53345076f6553e24b813cc4d2c444"
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
   } ]
 }

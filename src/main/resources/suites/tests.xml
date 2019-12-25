@@ -3,7 +3,13 @@
 
     <test verbose="1" name="Actions demo">
         <classes>
-            <class name="ActionsDemoTests"/>
+            <class name="actionDemoPackage.ActionsDemoTests"/>
+        </classes>
+    </test>
+
+    <test name="Cloud Google Test">
+        <classes>
+            <class name="googleCloudSelenideDemo.GoogleCloudDemoTests"/>
         </classes>
     </test>
 </suite>
