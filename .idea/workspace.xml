@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,27 +79,56 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GoogleCloudDemoTests.googleCloudTest">
-    <configuration name="ActionsDemoTests.resizeDemo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allure-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="googleCloudSelenideDemo.businessObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="actionDemoPackage.ActionsDemoTests" />
-      <option name="METHOD_NAME" value="resizeDemo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+  <component name="RunManager" selected="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="test-demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="test-demo" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="GoogleCloudDemoTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allure-demo" />
+      <module name="test-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="googleCloudSelenideDemo.businessObjects.*" />
@@ -98,7 +145,7 @@
       </method>
     </configuration>
     <configuration name="GoogleCloudDemoTests.googleCloudTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allure-demo" />
+      <module name="test-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="googleCloudSelenideDemo.businessObjects.*" />
@@ -115,17 +162,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleCloudDemoTests.googleCloudTeste" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allure-demo" />
+    <configuration name="RestAssuredDemoTests.makeSureThatGoogleIsUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="googleCloudSelenideDemo.businessObjects.*" />
+          <option name="PATTERN" value="restAssuredDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="googleCloudSelenideDemo.GoogleCloudDemoTests" />
-      <option name="METHOD_NAME" value="googleCloudTeste" />
+      <option name="PACKAGE_NAME" value="restAssuredDemo" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.RestAssuredDemoTests" />
+      <option name="METHOD_NAME" value="makeSureThatGoogleIsUp" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,17 +180,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleCloudDemoTests.selectingDemo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="allure-demo" />
+    <configuration name="RestAssuredDemoTests.testGreetingsAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="googleCloudSelenideDemo.businessObjects.*" />
+          <option name="PATTERN" value="restAssuredDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="googleCloudSelenideDemo.GoogleCloudDemoTests" />
-      <option name="METHOD_NAME" value="selectingDemo" />
+      <option name="PACKAGE_NAME" value="restAssuredDemo" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.RestAssuredDemoTests" />
+      <option name="METHOD_NAME" value="testGreetingsAPI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestAssuredDemoTests.testGreetingsAPIwithParameters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredDemo" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.RestAssuredDemoTests" />
+      <option name="METHOD_NAME" value="testGreetingsAPIwithParameters" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -153,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters" />
+        <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPI" />
+        <item itemvalue="TestNG.RestAssuredDemoTests.makeSureThatGoogleIsUp" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.GoogleCloudDemoTests" />
-        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTeste" />
-        <item itemvalue="TestNG.GoogleCloudDemoTests.selectingDemo" />
-        <item itemvalue="TestNG.ActionsDemoTests.resizeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -205,24 +270,32 @@
       <option name="project" value="LOCAL" />
       <updated>1577282376747</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add new test with Selenide for Google Cloud Pages2">
+      <created>1577282749874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577282749874</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit for test project" />
     <MESSAGE value="Add new test with Selenide for Google Cloud Pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new test with Selenide for Google Cloud Pages" />
+    <MESSAGE value="Add new test with Selenide for Google Cloud Pages2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new test with Selenide for Google Cloud Pages2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1577274463732">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1577274463732" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577282375631">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577282748953">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577282375631" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577282748953" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -231,22 +304,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577282689782">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577348542556">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577282689782" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577282689782">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577348542556" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577348542556">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577282689782" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577282689782">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577348542556" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577348542556">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577282689782" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577282689782">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577348542556" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577348542556">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577282689782" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577348542556" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577267485805">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -263,6 +336,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577267485805" />
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog" timestamp="1577340992270">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577340992270" />
     <state x="184" y="98" key="MergeDialog" timestamp="1577282249154">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -275,9 +352,13 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577255253822" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577282382323">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577282752281">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577282382323" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577282752281" />
+    <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1577344223611" />
   </component>
 </project>
