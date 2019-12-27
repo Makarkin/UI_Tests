@@ -1,107 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/UserPropertyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/StartInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/connection.properties" afterDir="false" />
+    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="Add new test with Rest Assured456">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/ActionsDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/ActionsDemoTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/browser/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/browser/Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/pages/AbstractPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/AbstractPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/pages/DroppablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/DroppablePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/pages/ResizablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/ResizablePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/actionDemoPackage/pages/SelectablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/SelectablePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/suites/tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suites/tests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/000cb6a3-d3c6-4ad9-9343-0e6ad56b9364-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/0018aede-8240-4e57-91c8-31e6d2c70d17-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/026bad80-eb4f-48c7-bd40-1e9419a2f6f9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/064b81ce-3e6c-4039-b0b1-c82ceaff80d5-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/267b0f5d-107c-48e0-bc5c-7628c8bdfd7b-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/2749f6e8-872c-4a40-8a0d-b83534f48ead-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/41c0c267-631f-4306-aa50-7b2a4fdc7374-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/42740149-c03d-4f71-9797-035660abf2f0-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/43f7ba35-1701-44bb-9d9d-aec7e97363a4-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/45639bc2-0045-44d0-ba95-fbf0ad90db4a-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/57d18cf6-8fde-4b9b-af62-7f6816dbb82d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/6bc71b77-f30d-4336-93b4-a9335c1a51e4-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/7e1f7569-01ac-42ac-a11e-37d0dbd5541c-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/83f10f5c-350b-4cc0-bcf6-b51418b31aeb-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/8647da03-d753-4ef1-8a8b-42200b90f030-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/a610588b-929a-4c78-9663-1f42575ac8f3-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ab919958-f5da-42a3-9651-5a48b0b35131-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/c858b775-4933-48ed-8177-3a53dc80419a-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e4261a17-cd60-4ea0-8d51-e54b9fa4b4ca-attachment" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/executor.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/ActionsDemoTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/browser/Browser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/pages/AbstractPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/pages/DroppablePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/pages/MainPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/pages/ResizablePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/actionDemoPackage/pages/SelectablePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/suites/tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/suites/tests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/allure-maven.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/216540c9a1555aaa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/25ccc1ca855dbade.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/530adf07f1580966.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/53533eeecda1f10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/62af4adb8539039f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/70e6b625de1e7e23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/72aa3021058ab63d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/7eb6e42145a36c09.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/a1b9e47a06556425.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/c0a8280af9812c7c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/c3027c9b7b1ccacf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/c5903ae93546f346.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/d11891a9a55228f7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/e789d8aedda5ebe4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/attachments/ea1f054a1603f8ee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/test-cases/76ee9c8d1a6ea207.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/allure-maven-plugin/widgets/summary.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577348675676</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add new test with Rest Assured">
+      <created>1577427981083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577427981083</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -398,10 +307,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577348674729">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577435231661">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577348674729" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577435231661" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -410,22 +319,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577366577703">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577433315216">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577366577703" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577366577703">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577433315216" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577433315216">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577366577703" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577366577703">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577433315216" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577433315216">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577366577703" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577366577703">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577433315216" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577433315216">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577366577703" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577433315216" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577361887427">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -454,14 +363,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="672" y="297" key="MultipleFileMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577282249176" />
-    <state x="463" y="225" key="SettingsEditor" timestamp="1577255253822">
+    <state x="463" y="225" key="SettingsEditor" timestamp="1577431899813">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577255253822" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577348680145">
+    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577427983389">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577348680145" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577427983389" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

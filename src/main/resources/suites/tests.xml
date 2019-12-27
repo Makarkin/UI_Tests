@@ -12,4 +12,10 @@
             <class name="googleCloudSelenideDemo.GoogleCloudDemoTests"/>
         </classes>
     </test>
+
+    <test name="Custom API Test">
+        <classes>
+            <class name="restAssuredDemo.RestAssuredDemoTests"/>
+        </classes>
+    </test>
 </suite>
