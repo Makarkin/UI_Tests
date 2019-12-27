@@ -21,12 +21,11 @@ public class UtilityUIMetods {
 
     public static void clickOnLink(String elementName) {
         String xpath = String.format(".//a[contains(text(), '%s')]", elementName);
-        SelenideElement element = $(By.xpath(xpath)).waitUntil(Condition.appears, 10000);
+        SelenideElement element = $(By.xpath(xpath));
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
         element.click();
-        //element.click();
         MyLogger.info("Clicking element '" + element.getText() + "' (Located: " + xpath + ")");
         takeScreenshot();
     }
