@@ -24,7 +24,6 @@ public class UtilityUIMetods {
     public static void clickOnLink(String elementName) {
         String xpath = String.format(".//a[contains(text(), '%s')]", elementName);
         SelenideElement element = $(By.xpath(xpath));
-        (new Actions(getWebDriver())).moveToElement(element).perform();
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
