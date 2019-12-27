@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
+import static restAssuredDemo.UserPropertyHandler.*;
 
 public class RestAssuredDemoTests {
 
@@ -14,6 +15,7 @@ public class RestAssuredDemoTests {
                 .get("http://localhost:8080/greeting")
                 .then()
                 .statusCode(200)
+                .header("Content-Type", equalTo("application/json"))
                 .assertThat()
                 .body("greeting", equalTo("Hello, User!"));
     }
@@ -22,7 +24,7 @@ public class RestAssuredDemoTests {
     public void testGreetingsAPIwithParameters() {
         given()
                 .when()
-                .get("http://localhost:8080/greeting?name=Stas&secondName=Makarkin&coinCount=40")
+                .get(getURIfromProperties())
                 .then()
                 .statusCode(200)
                 .assertThat()
@@ -30,6 +32,5 @@ public class RestAssuredDemoTests {
                 .body("user", hasKey("name"))
                 .body("greeting", equalTo("Hello, Stas!"))
                 .body("user.name", equalTo("Stas"), "user.secondName", equalTo("Makarkin"));
-
     }
 }

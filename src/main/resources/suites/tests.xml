@@ -3,7 +3,7 @@
 
     <test verbose="1" name="Actions demo">
         <classes>
-            <class name="actionDemoPackage.ActionsDemoTests"/>
+            <class name="seleniumActionDemoPackage.ActionsDemoTests"/>
         </classes>
     </test>
 
