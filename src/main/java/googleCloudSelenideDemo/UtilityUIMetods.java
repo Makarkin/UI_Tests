@@ -21,7 +21,7 @@ public class UtilityUIMetods {
 
     public static void clickOnLink(String elementName) {
         String xpath = String.format(".//a[contains(text(), '%s')]", elementName);
-        SelenideElement element = $(By.xpath(xpath)).waitUntil(Condition.visible, 10000);
+        SelenideElement element = $(By.xpath(xpath)).waitUntil(Condition.appears, 10000);
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
