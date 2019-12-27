@@ -23,6 +23,7 @@ public class UtilityUIMetods {
     public static void clickOnLink(String elementName) {
         String link = getWebDriver().getCurrentUrl();
         Allure.addAttachment("Reference to page", "text/plain", link);
+        getWebDriver().navigate().refresh();
         String xpath = String.format(".//a[contains(text(), '%s')]", elementName);
         SelenideElement element = $(By.xpath(xpath));
         highlightElement(element);
