@@ -21,7 +21,7 @@ public class UtilityUIMetods {
     private static final String SCREENSHOTS_NAME_TPL = "screenshots/scr";
 
     public static void clickOnLink(String elementName) {
-        String link = getWebDriver().getCurrentUrl();
+        String link = "<a href=\""+ getWebDriver().getCurrentUrl() + "\"/a>";
         Allure.addAttachment("Reference to page", "html", link);
         String xpath = String.format(".//a[contains(text(), '%s')]", elementName);
         SelenideElement element = $(By.xpath(xpath));
