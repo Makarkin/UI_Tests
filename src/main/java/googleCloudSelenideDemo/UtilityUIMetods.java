@@ -6,6 +6,8 @@ import com.codeborne.selenide.SelenideElement;
 import io.qameta.allure.Attachment;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Action;
+import org.openqa.selenium.interactions.Actions;
 import reporting.MyLogger;
 
 import java.io.File;
@@ -22,6 +24,7 @@ public class UtilityUIMetods {
     public static void clickOnLink(String elementName) {
         String xpath = String.format(".//a[contains(text(), '%s')]", elementName);
         SelenideElement element = $(By.xpath(xpath));
+        (new Actions(getWebDriver())).moveToElement(element).perform();
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
