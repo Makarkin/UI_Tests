@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357788693377600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357792242691500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357792959237300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357795459538300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357796165943200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357801613692600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357802356611500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357803180861400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357804307123200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357805388383100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357806470781600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357807527655600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357808686617400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357809781544000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr357810624529800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC_demo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityUIMetods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityUIMetods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577437621081</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new pom">
+      <created>1577450430745</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577450430745</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -350,10 +335,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577437620231">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577450429875">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577437620231" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577450429875" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -410,10 +395,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577437623478">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577450432781">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577437623478" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577450432781" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
