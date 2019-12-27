@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Actions demo" parallel="classes" thread-count="10">
+<suite name="AT demo" parallel="classes" thread-count="10">
 
     <test verbose="1" name="Actions demo">
         <classes>
@@ -10,6 +10,12 @@
     <test name="Cloud Google Test">
         <classes>
             <class name="googleCloudSelenideDemo.GoogleCloudDemoTests"/>
+        </classes>
+    </test>
+
+    <test name="Custom API Test">
+        <classes>
+            <class name="restAssuredDemo.RestAssuredDemoTests"/>
         </classes>
     </test>
 </suite>

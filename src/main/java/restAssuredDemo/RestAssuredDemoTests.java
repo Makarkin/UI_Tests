@@ -12,7 +12,7 @@ public class RestAssuredDemoTests {
     public void testGreetingsAPI() {
         given()
                 .when()
-                .get("http://localhost:8080/greeting")
+                .get("http://localhost:8083/greeting")
                 .then()
                 .statusCode(200)
                 .header("Content-Type", equalTo("application/json"))
