@@ -18,6 +18,7 @@ public class RestAssuredDemoTests {
                 .header("Content-Type", equalTo("application/json"))
                 .assertThat()
                 .body("greeting", equalTo("Hello, User!"));
+
     }
 
     @Test

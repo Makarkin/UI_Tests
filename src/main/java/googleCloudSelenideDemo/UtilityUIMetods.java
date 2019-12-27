@@ -25,7 +25,8 @@ public class UtilityUIMetods {
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
-        element.click();
+        $(element).click();
+        //element.click();
         MyLogger.info("Clicking element '" + element.getText() + "' (Located: " + xpath + ")");
         takeScreenshot();
     }
