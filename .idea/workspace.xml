@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372883433394300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372886789265700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372887680897900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372889956834500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372890795528600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372895872734500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372896612189400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372897406934900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372898535452300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372899651366300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372900696285900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372901735615000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372902883514400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372903992869200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr372904826238900.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityUIMetods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityUIMetods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/UtilityUIMetods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/UtilityUIMetods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577452538892</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="new pom">
+      <created>1577453005502</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1577453005502</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -386,10 +376,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577452538128">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577453004655">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577452538128" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577453004655" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -446,10 +436,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577452540195">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577453006807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577452540195" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577453006807" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
