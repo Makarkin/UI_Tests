@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356370893367600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356372853416400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356373818411700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356375224256400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356376417211800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356377471604100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356378567085700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356380655453500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356381745397400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356383170053800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356396875000300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356400039040200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356400747552000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356402873039900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356403611438900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356408360566200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356409094811100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356409880455500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356410999975000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356412055877100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356413150838400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356414197506200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356415370440600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356416439746600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr356417260189400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_io_2_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/suites/tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/suites/tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +74,7 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters">
+  <component name="RunManager" selected="TestNG.GoogleCloudDemoTests.googleCloudTest">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="test-demo" />
       <option name="VM_PARAMETERS" />
@@ -235,10 +213,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPI" />
         <item itemvalue="TestNG.RestAssuredDemoTests.makeSureThatGoogleIsUp" />
-        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.GoogleCloudDemoTests" />
       </list>
     </recent_temporary>
@@ -322,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577436080034</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add new test with Rest Assured4565675">
+      <created>1577436361119</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1577436361119</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -348,10 +333,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577436079208">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577436369468">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577436079208" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577436369468" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -360,22 +345,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577436234426">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577437347953">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577436234426" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577436234426">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577437347953" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577437347953">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577436234426" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577436234426">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577437347953" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577437347953">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577436234426" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577436234426">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577437347953" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577437347953">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577436234426" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577437347953" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577361887427">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
