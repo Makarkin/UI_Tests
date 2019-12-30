@@ -1,10 +1,7 @@
 package restAssuredDemo;
 
 import io.restassured.RestAssured;
-import io.restassured.specification.RequestSpecification;
-import org.openqa.selenium.remote.Response;
 import org.testng.annotations.Test;
-import org.testng.asserts.Assertion;
 import restAssuredDemo.deserialization.User;
 
 import java.io.IOException;
@@ -19,14 +16,13 @@ import static restAssuredDemo.UserPropertyHandler.*;
 public class RestAssuredDemoTests {
 
     @Test
-    public void defaultTest() {
+    public void testStatusAndHeaderForGetRequest() {
         given()
                 .when()
                 .get("http://localhost:8083/users")
                 .then()
                 .statusCode(200)
                 .header("Content-Type", equalTo("application/json"));
-
     }
 
     @Test
@@ -51,9 +47,9 @@ public class RestAssuredDemoTests {
                 .post((getURIfromProperties()));
         assertTrue(
                 given()
-                .when()
-                .get(getURIfromProperties() + "/" + username)
-                .as(User.class)
-                .equals(user));
+                        .when()
+                        .get(getURIfromProperties() + "/" + username)
+                        .as(User.class)
+                        .equals(user));
     }
 }
