@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/ActionsDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/ActionsDemoTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters">
+  <component name="RunManager" selected="TestNG.RestAssuredDemoTests.testPostNewUser">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JDBC_Test_demo.Main" />
       <module name="test-demo" />
@@ -115,24 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestAssuredDemoTests.testGreetingsAPI" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="test-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="restAssuredDemo.deserialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="restAssuredDemo" />
-      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.RestAssuredDemoTests" />
-      <option name="METHOD_NAME" value="testGreetingsAPI" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RestAssuredDemoTests.testGreetingsAPIwithParameters" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test-demo" />
       <extension name="coverage">
@@ -151,13 +133,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RestAssuredDemoTests.testPostNewUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restAssuredDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restAssuredDemo" />
+      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.RestAssuredDemoTests" />
+      <option name="METHOD_NAME" value="testPostNewUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RestAssuredDemoTests.testPostNewUser" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.ActionsDemoTests.resizeDemo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPI" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577698444817</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="new pom">
+      <created>1577698575633</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1577698575633</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -399,10 +406,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577695089854" />
-    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577348826497">
+    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577698931666">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1577348826497" />
+    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1577698931666" />
     <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1577366563530">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -411,10 +418,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577698444132">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577698575019">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577698444132" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577698575019" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -423,22 +430,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577695753166">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577709311678">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577695753166">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577709311678" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577709311678">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577695753166">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577709311678" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577709311678">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577695753166">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577709311678" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577709311678">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577709311678" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -471,13 +478,17 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577698446108">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577698577301">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577698446108" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577698577301" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1577344223611" />
+    <state x="616" y="270" key="run.anything.popup" timestamp="1577708432773">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="616" y="270" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1577708432773" />
   </component>
 </project>

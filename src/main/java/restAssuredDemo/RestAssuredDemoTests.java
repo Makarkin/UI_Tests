@@ -1,5 +1,7 @@
 package restAssuredDemo;
 
+import io.restassured.RestAssured;
+import io.restassured.specification.RequestSpecification;
 import org.openqa.selenium.remote.Response;
 import org.testng.annotations.Test;
 import org.testng.asserts.Assertion;
@@ -7,6 +9,7 @@ import restAssuredDemo.deserialization.User;
 
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
+import java.util.Random;
 
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
@@ -16,7 +19,7 @@ import static restAssuredDemo.UserPropertyHandler.*;
 public class RestAssuredDemoTests {
 
     @Test
-    public void testGreetingsAPI() {
+    public void defaultTest() {
         given()
                 .when()
                 .get("http://localhost:8083/users")
@@ -27,12 +30,30 @@ public class RestAssuredDemoTests {
     }
 
     @Test
-    public void testGreetingsAPIwithParameters() throws InvocationTargetException, NoSuchMethodException, IllegalAccessException, IOException {
+    public void testGetExistingUser() throws InvocationTargetException, NoSuchMethodException, IllegalAccessException, IOException {
         assertTrue(
                 given()
                         .when()
                         .get(getURIfromProperties() + "/admin")
                         .as(User.class)
                         .equals(User.getUserFromProperties()));
+    }
+
+    @Test
+    public void testPostNewUser() throws InvocationTargetException, NoSuchMethodException, IllegalAccessException, IOException {
+        User user = new User();
+        String username = "user" + (new Random().nextInt(1000));
+        user.setUsername(username);
+        user.setCoinCount("2089");
+        RestAssured.given()
+                .header("Content-Type", "application/json")
+                .body(user)
+                .post((getURIfromProperties()));
+        assertTrue(
+                given()
+                .when()
+                .get(getURIfromProperties() + "/" + username)
+                .as(User.class)
+                .equals(user));
     }
 }
