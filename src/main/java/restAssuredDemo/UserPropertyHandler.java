@@ -16,7 +16,7 @@ public class UserPropertyHandler {
         }
     }
 
-    public static String getUserProperty(String propertyName) {
+    public static String getConnectionProperty(String propertyName) {
         for (String property : PROPERTIES) {
             if (property.contains(propertyName)) {
                 return property.split("=")[1];
@@ -31,15 +31,14 @@ public class UserPropertyHandler {
     }
 
     public static String getURIfromProperties() {
-        StringBuilder url = new StringBuilder(getUserProperty("url"));
+        StringBuilder url = new StringBuilder(getConnectionProperty("url"));
         String[] propertyNameAndValue;
         List<String> properties = getProperties();
-        String divider = "?";
+        String divider = "/";
         for (String property : properties) {
             if (property.contains("parameter")) {
                 propertyNameAndValue = property.split("=");
                 url.append(divider + property.split("=")[0].split("\\.")[1] + "=" + propertyNameAndValue[1]);
-                divider = "&";
             }
         }
 

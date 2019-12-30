@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375801902490600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375807997500300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375808739725700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375811530436800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375812267590100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375817508883000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375818332737100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375819110344900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375820206429500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375821307861200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375822396030500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375823472394200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375824705927000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375825785621600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr375826674608400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/user.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/UtilityUIMetods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/UtilityUIMetods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudStartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudStartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JDBC_demo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/UserPropertyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/UserPropertyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/StartInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/connection.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/connection.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,57 +80,10 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GoogleCloudDemoTests.googleCloudTest">
+  <component name="RunManager" selected="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBC_demo.Main" />
+      <option name="MAIN_CLASS_NAME" value="JDBC_Test_demo.Main" />
       <module name="test-demo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="test-demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="test-demo" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,10 +162,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.ActionsDemoTests.resizeDemo" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPI" />
       </list>
     </recent_temporary>
@@ -415,7 +361,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577455215644</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="new pom">
+      <created>1577456197217</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1577456197217</updated>
+    </task>
+    <task id="LOCAL-00026" summary="new pom">
+      <created>1577456357995</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1577456357995</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -430,6 +390,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="new pom" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577695089854">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577695089854" />
     <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577348826497">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -442,10 +406,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577456196400">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577456357197">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577456196400" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577456357197" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -454,38 +418,38 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577455667320">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577695753166">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577455667320" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577455667320">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577695753166">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577455667320" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577455667320">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577695753166">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577455667320" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577455667320">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577695753166">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577455667320" />
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577361887427">
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577695753166" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577361887427" />
-    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1577361887427">
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577458161865" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577361887427" />
-    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1577361887427">
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577458161865" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577361887427" />
-    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1577361887427">
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577458161865" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577361887427" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577458161865" />
     <state x="490" y="237" key="Maven.ArtifactSearchDialog" timestamp="1577340992270">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -502,10 +466,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577456199622">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577456359131">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577456199622" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577456359131" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
