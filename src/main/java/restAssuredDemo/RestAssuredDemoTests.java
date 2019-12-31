@@ -1,6 +1,7 @@
 package restAssuredDemo;
 
 import io.restassured.RestAssured;
+import io.restassured.response.ValidatableResponse;
 import org.testng.annotations.Test;
 import restAssuredDemo.deserialization.User;
 
@@ -9,28 +10,23 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Random;
 
 import static io.restassured.RestAssured.*;
-import static org.hamcrest.Matchers.*;
 import static org.testng.Assert.assertTrue;
+import static restAssuredDemo.TestMethodLoggingWrapper.*;
 import static restAssuredDemo.UserPropertyHandler.*;
 
 public class RestAssuredDemoTests {
 
     @Test
     public void testStatusAndHeaderForGetRequest() {
-        given()
-                .when()
-                .get("http://localhost:8083/users")
-                .then()
-                .statusCode(200)
-                .header("Content-Type", equalTo("application/json"));
+        ValidatableResponse response = getRequestToUser("").then();
+        verifyResponseStatus(response, 200);
+        verifyResponseHeader(response, "application/json");
     }
 
     @Test
     public void testGetExistingUser() throws InvocationTargetException, NoSuchMethodException, IllegalAccessException, IOException {
         assertTrue(
-                given()
-                        .when()
-                        .get(getURIfromProperties() + "/admin")
+                getRequestToUser("admin")
                         .as(User.class)
                         .equals(User.getUserFromProperties()));
     }
@@ -41,14 +37,9 @@ public class RestAssuredDemoTests {
         String username = "user" + (new Random().nextInt(1000));
         user.setUsername(username);
         user.setCoinCount("2089");
-        RestAssured.given()
-                .header("Content-Type", "application/json")
-                .body(user)
-                .post((getURIfromProperties()));
+        postRequestForUser(user);
         assertTrue(
-                given()
-                        .when()
-                        .get(getURIfromProperties() + "/" + username)
+                getRequestToUser(username)
                         .as(User.class)
                         .equals(user));
     }

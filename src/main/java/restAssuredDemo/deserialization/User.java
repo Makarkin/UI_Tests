@@ -1,5 +1,8 @@
 package restAssuredDemo.deserialization;
 
+import io.qameta.allure.Step;
+import reporting.MyLogger;
+
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.nio.charset.StandardCharsets;
@@ -46,13 +49,16 @@ public class User {
         return user;
     }
 
+
     @Override
+    @Step("Verify that user instance equals another user instance")
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         User user = (User) o;
-        return coinCount == user.coinCount &&
-                username.equals(user.username);
+        boolean result = coinCount == user.coinCount && username.equals(user.username);
+        MyLogger.info(String.format("User instance \"%s\" is equal user instance \"%s\": %s", this.getUsername(), user.getUsername(), result));
+        return result;
     }
 
     @Override
