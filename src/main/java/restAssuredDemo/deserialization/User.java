@@ -1,5 +1,6 @@
 package restAssuredDemo.deserialization;
 
+import io.qameta.allure.Allure;
 import io.qameta.allure.Step;
 import reporting.MyLogger;
 
@@ -58,6 +59,7 @@ public class User {
         User user = (User) o;
         boolean result = coinCount == user.coinCount && username.equals(user.username);
         MyLogger.info(String.format("User instance \"%s\" is equal user instance \"%s\": %s", this.getUsername(), user.getUsername(), result));
+        Allure.addAttachment("Result", "text/plain", String.format("User instance \"%s\" is equal user instance \"%s\": %s", this.getUsername(), user.getUsername(), result));
         return result;
     }
 

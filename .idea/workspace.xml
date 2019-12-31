@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93223457572600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93225146207900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93226167982000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93227636588500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93229590813800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93230725703900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93232471322900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93247088550300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93250397060300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93251120983000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93253269714000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93253985487700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93258696293900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93259443832900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93260196411300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93261333693700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93262412330600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93263463144100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93264500748800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93265640471800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93266741826200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr93267604222900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94013820173400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94015750291200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94016770351800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94018195579000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94019922499700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94021004309700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94022734081100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94037207480800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94040748761100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94041453418600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94043926097100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94044611893200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94050074614000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94050794306000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94051539345400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94052636624700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94053752873100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94054806147100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94055870155900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94057026843200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94058107512700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr94058926915500.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/TestMethodLoggingWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/TestMethodLoggingWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -462,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577773646088</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="New tests3">
+      <created>1577774904323</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1577774904323</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -496,10 +459,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577773645070">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577774903368">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577773645070" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577774903368" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -556,10 +519,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577773647443">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577774906243">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577773647443" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577774906243" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
