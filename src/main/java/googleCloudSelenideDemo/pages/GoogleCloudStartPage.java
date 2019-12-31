@@ -1,12 +1,9 @@
 package googleCloudSelenideDemo.pages;
 
-import io.qameta.allure.Allure;
-import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 import io.qameta.allure.Step;
 import reporting.MyLogger;
 
 import static com.codeborne.selenide.Selenide.open;
-import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 import static googleCloudSelenideDemo.UtilityUIMetods.clickOnLink;
 
 public class GoogleCloudStartPage {

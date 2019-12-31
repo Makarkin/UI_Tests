@@ -16,6 +16,7 @@ public class GoogleCloudDemoTests {
     private void config() {
         Configuration.startMaximized = true;
         Configuration.timeout = 6000;
+        Configuration.browserVersion = "79.0.3945.88";
     }
 
     @Test(groups = "ui")
