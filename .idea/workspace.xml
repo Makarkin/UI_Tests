@@ -2,47 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87944887034800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87948127267800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87948868874400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87951527008000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87952264080200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87957147433900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87957928328700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87958729232900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87959900585200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87960994353800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87962149957800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87963206411800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87964423515300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87965507652500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr87966323996600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88030917522300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88032973604600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88033987879300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88035145922200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88037666528300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88039038895300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88040819708000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88055485388900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88059407068300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88060123484400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88062883261200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88063572085000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88068125954600.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88068878154300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88069619641100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88070767523100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88071813494400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88072919621800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88074007032800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88075207988300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88076269732200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr88077099047400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/TestMethodLoggingWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93223457572600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93225146207900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93226167982000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93227636588500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93229590813800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93230725703900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93232471322900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93247088550300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93250397060300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93251120983000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93253269714000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93253985487700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93258696293900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93259443832900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93260196411300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93261333693700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93262412330600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93263463144100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93264500748800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93265640471800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93266741826200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr93267604222900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94013820173400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94015750291200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94016770351800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94018195579000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94019922499700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94021004309700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94022734081100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94037207480800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94040748761100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94041453418600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94043926097100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94044611893200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94050074614000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94050794306000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94051539345400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94052636624700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94053752873100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94054806147100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94055870155900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94057026843200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94058107512700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr94058926915500.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/TestMethodLoggingWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/TestMethodLoggingWrapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +115,7 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RestAssuredDemoTests.testPostNewUser">
+  <component name="RunManager" selected="TestNG.GoogleCloudDemoTests.googleCloudTest">
     <configuration name="GoogleCloudDemoTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test-demo" />
       <extension name="coverage">
@@ -128,6 +133,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GoogleCloudDemoTests.googleCloudTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="googleCloudSelenideDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="googleCloudSelenideDemo" />
+      <option name="MAIN_CLASS_NAME" value="googleCloudSelenideDemo.GoogleCloudDemoTests" />
+      <option name="METHOD_NAME" value="googleCloudTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RestAssuredDemoTests.testGetExistingUser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test-demo" />
       <extension name="coverage">
@@ -139,24 +162,6 @@
       <option name="PACKAGE_NAME" value="restAssuredDemo" />
       <option name="MAIN_CLASS_NAME" value="restAssuredDemo.RestAssuredDemoTests" />
       <option name="METHOD_NAME" value="testGetExistingUser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestAssuredDemoTests.testGreetingsAPIwithParameters" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="test-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="restAssuredDemo.deserialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="restAssuredDemo" />
-      <option name="MAIN_CLASS_NAME" value="restAssuredDemo.RestAssuredDemoTests" />
-      <option name="METHOD_NAME" value="testGreetingsAPIwithParameters" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -202,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testPostNewUser" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testGetExistingUser" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testStatusAndHeaderForGetRequest" />
         <item itemvalue="TestNG.GoogleCloudDemoTests" />
-        <item itemvalue="TestNG.RestAssuredDemoTests.testGreetingsAPIwithParameters" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577710532335</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="New tests3">
+      <created>1577773646088</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1577773646088</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -464,7 +476,8 @@
     <MESSAGE value="new pom" />
     <MESSAGE value="New tests" />
     <MESSAGE value="New tests2" />
-    <option name="LAST_COMMIT_MESSAGE" value="New tests2" />
+    <MESSAGE value="New tests3" />
+    <option name="LAST_COMMIT_MESSAGE" value="New tests3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577695089854">
@@ -483,10 +496,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577710531631">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577773645070">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577710531631" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577773645070" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -495,22 +508,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577773623207">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577774835713">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577773623207" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577773623207">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577774835713" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577774835713">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577773623207" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577773623207">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577774835713" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577774835713">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577773623207" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577773623207">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577774835713" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577774835713">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577773623207" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577774835713" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -543,10 +556,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577710533661">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577773647443">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577710533661" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577773647443" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

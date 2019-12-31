@@ -1,5 +1,6 @@
 package restAssuredDemo;
 
+import io.qameta.allure.Allure;
 import io.qameta.allure.Step;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
@@ -17,7 +18,9 @@ public class TestMethodLoggingWrapper {
     @Step("GET response from user from API endpoint")
     public static Response getRequestToUser(String userName) {
         Response response = given().when().get(getURIfromProperties() + "/" + userName);
-        MyLogger.info("GET response from user " + userName + ": " + response.getBody().asString());
+        ResponseBody responseBody = response.getBody();
+        MyLogger.info("GET response from user " + userName + ": " + responseBody.asString());
+        Allure.addAttachment("Response", "text/plain", responseBody.asString());
         return response;
     }
 
@@ -28,6 +31,7 @@ public class TestMethodLoggingWrapper {
                 .body(newUser)
                 .post((getURIfromProperties())).getBody();
         MyLogger.info("POST new user " + newUser.getUsername() + "\r\n" + responseBody.asString());
+        Allure.addAttachment("Response", "text/plain", responseBody.asString());
     }
 
     @Step("Verify that response status is equal {status}")
