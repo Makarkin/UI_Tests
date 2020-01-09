@@ -2,44 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18414328450500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18417945156400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18418675071700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18421190048200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18421873872400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18428361058000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18429113307300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18429930199700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18431025528800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18432119405700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18433229671300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18434349366400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18435561465800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18436683937300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18437547830500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18467780369500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18471695492500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18472465821800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18478062260100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18478759873700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18484802945900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18485562471500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18486346046700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18487506225500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18488547458000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18489590091400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18490621660900.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18491812625200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18492923918000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr18493774536200.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/user.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/user.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -496,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578563009984</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="New tests8">
+      <created>1578566604523</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1578566604523</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -534,10 +505,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578563009264">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578566603589">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578563009264" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578566603589" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -594,10 +565,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578555093970" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578563012670">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578566607475">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578563012670" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578566607475" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
