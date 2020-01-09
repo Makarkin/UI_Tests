@@ -13,7 +13,6 @@ public class GoogleCloudStartPage {
         open("https://cloud.google.com/");
     }
 
-
     @Step("Switch to product page")
     public GoogleCloudProductPage switchToProductsPage() {
         clickOnLink("See all products");

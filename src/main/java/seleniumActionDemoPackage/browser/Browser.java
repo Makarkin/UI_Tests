@@ -1,5 +1,6 @@
 package seleniumActionDemoPackage.browser;
 
+import com.google.common.base.Function;
 import io.qameta.allure.Attachment;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;

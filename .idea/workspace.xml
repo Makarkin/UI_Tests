@@ -2,8 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_owasp_java_html_sanitizer_owasp_java_html_sanitizer_20160924_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_testng_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lingala_zip4j_zip4j_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_masterthought_cucumber_reporting_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_tools_velocity_tools_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RunService.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cucumberDemo/CucumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/Feature.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudStartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudStartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/browser/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/browser/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudStartPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudStartPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +106,7 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GoogleCloudDemoTests.googleCloudTest">
+  <component name="RunManager" selected="TestNG.RestAssuredDemoTests.testPostNewUser">
     <configuration name="GoogleCloudDemoTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test-demo" />
       <extension name="coverage">
@@ -163,10 +198,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testPostNewUser" />
-        <item itemvalue="TestNG.RestAssuredDemoTests.testGetExistingUser" />
         <item itemvalue="TestNG.RestAssuredDemoTests.testStatusAndHeaderForGetRequest" />
+        <item itemvalue="TestNG.RestAssuredDemoTests.testGetExistingUser" />
+        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.GoogleCloudDemoTests" />
       </list>
     </recent_temporary>
@@ -432,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577775203442</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="New tests3">
+      <created>1577775910662</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1577775910662</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -466,10 +508,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577352181557" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1577775202624">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578558050426">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1577775202624" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578558050426" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -478,22 +520,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1577775845164">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578557639807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1577775845164" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1577775845163">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578557639807" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1578557639807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1577775845163" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1577775845163">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578557639807" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1578557639807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1577775845163" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1577775845163">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578557639807" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1578557639807">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577775845163" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578557639807" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -522,14 +564,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="672" y="297" key="MultipleFileMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577282249176" />
-    <state x="463" y="225" key="SettingsEditor" timestamp="1577431899813">
+    <state x="463" y="225" key="SettingsEditor" timestamp="1578555093970">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1577431899813" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1577775204860">
+    <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578555093970" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578558053432">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1577775204860" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578558053432" />
     <state x="342" y="284" key="new project wizard" timestamp="1577344223611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
