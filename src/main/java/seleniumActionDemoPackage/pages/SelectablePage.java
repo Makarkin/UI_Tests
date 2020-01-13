@@ -13,11 +13,10 @@ public class SelectablePage extends AbstractPage {
     public static final String LAST_ITEM_LOCATOR_PATTERN = "//li[%d]";
 
     @Step("Select {itemsToSelect} items")
-    public SelectablePage selectItems(int itemsToSelect) {
+    public void selectItems(int itemsToSelect) {
         browser.switchToFrame("0");
         By lastItemLocator = By.xpath(String.format(LAST_ITEM_LOCATOR_PATTERN, itemsToSelect));
         browser.selectItems(FIRST_ITEM_LOCATOR, lastItemLocator);
         MyLogger.info("Successfully selected " + itemsToSelect + " elements!");
-        return this;
     }
 }

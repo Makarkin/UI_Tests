@@ -14,10 +14,6 @@ public class VariableAndValueForAssertion {
         return variable;
     }
 
-    public void setVariable(String variable) {
-        this.variable = variable;
-    }
-
     public String getValue() {
         return value;
     }

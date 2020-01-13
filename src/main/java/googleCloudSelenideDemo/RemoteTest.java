@@ -22,6 +22,7 @@ public class RemoteTest {
             e.printStackTrace();
         }
 
+        assert driver != null;
         driver.manage().window().maximize();
         driver.get(baseUrl);
         return  driver;

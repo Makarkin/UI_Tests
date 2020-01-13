@@ -29,12 +29,8 @@ public class User {
         this.username = username;
     }
 
-    public int getCoinCount() {
-        return coinCount;
-    }
-
     public void setCoinCount(String coinCount) {
-        this.coinCount = Integer.valueOf(coinCount);
+        this.coinCount = Integer.parseInt(coinCount);
     }
 
     public static User getUserFromProperties() throws IOException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {

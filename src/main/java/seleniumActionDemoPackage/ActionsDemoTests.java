@@ -34,13 +34,6 @@ public class ActionsDemoTests {
         selectablePage.selectItems(5);
     }
 
-//    @Test(description = "Broken test")
-//    public void brokenTest() {
-//        DroppablePage droppablePage = new MainPage().open().openDroppableLink();
-//        droppablePage.dragNDropWrongSquare();
-//        Assert.assertTrue(droppablePage.squareIsOnThePlace());
-//    }
-
     @AfterTest(description = "close browser")
     public void kill(){
         MyLogger.info("Close browser");

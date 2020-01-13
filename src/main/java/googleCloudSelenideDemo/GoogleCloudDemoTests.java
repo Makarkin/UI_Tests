@@ -19,7 +19,7 @@ public class GoogleCloudDemoTests {
         Configuration.browserVersion = "79.0.3945.88";
     }
 
-    @Test(groups = "ui")
+    @Test
     public void googleCloudTest() {
         GoogleCloudCalculatorPage page = new GoogleCloudStartPage()
                 .switchToProductsPage()

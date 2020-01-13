@@ -16,6 +16,7 @@ public class UtilityBusinessMethods {
                 break;
             }
         }
+
         return hasNoFalseResult;
     }
 }

@@ -1,6 +1,5 @@
 package seleniumActionDemoPackage.browser;
 
-import com.google.common.base.Function;
 import io.qameta.allure.Attachment;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
@@ -20,10 +19,6 @@ public class Browser {
     private static final int COMMAND_DEFAULT_TIMEOUT_SECONDS = 10;
     private static final int WAIT_ELEMENT_TIMEOUT = 10;
     private static final String SCREENSHOTS_NAME_TPL = "screenshots/scr";
-
-    public WebDriver getDriver() {
-        return driver;
-    }
 
     private WebDriver driver;
     private static Browser instance = null;
@@ -52,14 +47,6 @@ public class Browser {
     public void open(String url) {
         MyLogger.info("Going to URL: " + url);
         driver.get(url);
-    }
-
-    public void waitForElementPresent(By locator) {
-        new WebDriverWait(driver, WAIT_ELEMENT_TIMEOUT).until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
-    }
-
-    public void waitForElementEnabled(By locator) {
-        new WebDriverWait(driver, WAIT_ELEMENT_TIMEOUT).until(ExpectedConditions.elementToBeClickable(locator));
     }
 
     private void waitForElementVisible(By locator) {
@@ -113,22 +100,6 @@ public class Browser {
         takeScreenshot();
     }
 
-    public By selectSeveralElements(List<By> locators) {
-        Actions action = new Actions(driver);
-        action.keyDown(Keys.CONTROL);
-        WebElement element;
-        for (By locator : locators) {
-            waitForElementVisible(locator);
-            highlightElement(locator);
-            MyLogger.info("Clicking element '" + driver.findElement(locator).getText() + "' (Located: " + locator + ")");
-            element = driver.findElement(locator);
-            action.moveToElement(element).click();
-        }
-        takeScreenshot();
-        action.keyUp(Keys.CONTROL).perform();
-        return locators.get(0);
-    }
-
     public void selectItems(By firstLocator, By lastLocator) {
         new Actions(driver).clickAndHold(driver.findElement(firstLocator)).moveToElement(driver.findElement(lastLocator)).release().build().perform();
         takeScreenshot();
@@ -138,21 +109,6 @@ public class Browser {
         WebElement handle = driver.findElement(sizeHandleLocator);
         new Actions(driver).clickAndHold(handle).moveByOffset(xOffset, yOffset).release(handle).build().perform();
         takeScreenshot();
-    }
-
-    public boolean isDisplayed(By locator) {
-        boolean succeed = driver.findElements(locator).size() > 0;
-        if (succeed) {
-            MyLogger.info("Element " + driver.findElement(locator).getText() + " is present.");
-            highlightElement(locator);
-            takeScreenshot();
-            unHighlightElement(locator);
-        } else MyLogger.info("Element " + driver.findElement(locator).getText() + " is not present.");
-        return succeed;
-    }
-
-    public void refresh() {
-        driver.navigate().refresh();
     }
 
     private void takeScreenshot() {
@@ -188,7 +144,7 @@ public class Browser {
 
     public void switchToFrame(String frameIdentificator) {
         if (frameIdentificator.matches("[-+]?\\d+")) {
-            driver.switchTo().frame(Integer.valueOf(frameIdentificator));
+            driver.switchTo().frame(Integer.parseInt(frameIdentificator));
         } else driver.switchTo().frame(frameIdentificator);
     }
 }

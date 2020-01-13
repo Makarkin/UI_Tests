@@ -5,7 +5,7 @@ import org.testng.TestListenerAdapter;
 import org.testng.TestNG;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 @SuppressWarnings("deprecation")
@@ -14,7 +14,7 @@ public class Runner {
         TestNG testNG = new TestNG(false);
         List<Class<? extends ITestNGListener>> classes = new ArrayList<>();
         testNG.setListenerClasses(classes);
-        testNG.setTestSuites(Arrays.asList("src/main/resources/suites/tests.xml"));
+        testNG.setTestSuites(Collections.singletonList("src/main/resources/suites/tests.xml"));
         TestListenerAdapter results = new TestListenerAdapter();
         testNG.addListener(results);
         boolean hasFailures;
