@@ -1,11 +1,11 @@
 package googleCloudSelenideDemo.businessObjects;
 
-public class AssertionPair {
+public class VariableAndValueForAssertion {
 
     private String variable;
     private  String value;
 
-    public AssertionPair(String variable, String value) {
+    public VariableAndValueForAssertion(String variable, String value) {
         this.variable = variable;
         this.value = value;
     }

@@ -1,7 +1,6 @@
 package seleniumActionDemoPackage;
 
 import seleniumActionDemoPackage.browser.Browser;
-import org.testng.Assert;
 import org.testng.annotations.*;
 import seleniumActionDemoPackage.pages.DroppablePage;
 import seleniumActionDemoPackage.pages.MainPage;

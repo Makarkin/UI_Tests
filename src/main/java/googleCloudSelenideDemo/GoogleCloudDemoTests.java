@@ -1,7 +1,7 @@
 package googleCloudSelenideDemo;
 
 import com.codeborne.selenide.Configuration;
-import googleCloudSelenideDemo.businessObjects.AssertionPairs;
+import googleCloudSelenideDemo.businessObjects.AssertionOfVariableAndValue;
 import googleCloudSelenideDemo.pages.GoogleCloudCalculatorPage;
 import googleCloudSelenideDemo.pages.GoogleCloudStartPage;
 import org.testng.annotations.BeforeTest;
@@ -36,6 +36,6 @@ public class GoogleCloudDemoTests {
                 .selectValueInSelector("Committed usage", "1 Year")
                 .addToEstimate();
 
-        assertTrue(checkTheEstimateResultsOnPage(new AssertionPairs(), page));
+        assertTrue(checkTheEstimateResultsOnPage(new AssertionOfVariableAndValue(), page));
     }
 }

@@ -19,12 +19,14 @@ import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 public class UtilityUIMetods {
 
     private static final String SCREENSHOTS_NAME_TPL = "screenshots/scr";
+    private static String xpath = null;
+    private static SelenideElement element = null;
 
     public static void clickOnLink(String elementName) {
         String link = getWebDriver().getCurrentUrl();
         Allure.addAttachment("Reference to page", "text/plain", link);
-        String xpath = String.format(".//a[contains(text(), '%s')]", elementName);
-        SelenideElement element = $(By.xpath(xpath));
+        xpath = String.format(".//a[contains(text(), '%s')]", elementName);
+        element = $(By.xpath(xpath));
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
@@ -34,8 +36,8 @@ public class UtilityUIMetods {
     }
 
     public static void clickOnButton(String elementName) {
-        String xpath = String.format(".//button[contains(text(), '%s') and not(@disabled)]", elementName);
-        SelenideElement element = $(By.xpath(xpath));
+        xpath = String.format(".//button[contains(text(), '%s') and not(@disabled)]", elementName);
+        element = $(By.xpath(xpath));
         highlightElement(element);
         element.click();
         MyLogger.info("Clicking element '" + elementName + "' (Located: " + xpath + ")");
@@ -44,8 +46,8 @@ public class UtilityUIMetods {
 
     public static void navigateToTab(String tabName) {
         Selenide.switchTo().frame(0);
-        String xpath = String.format(".//div[@title='%s' and parent::md-tab-item]", tabName);
-        SelenideElement element = $(By.xpath(xpath));
+        xpath = String.format(".//div[@title='%s' and parent::md-tab-item]", tabName);
+        element = $(By.xpath(xpath));
         JavascriptExecutor javascriptExecutor = (JavascriptExecutor) getWebDriver();
         highlightElement(element);
         javascriptExecutor.executeScript("arguments[0].click();", element);
@@ -54,8 +56,8 @@ public class UtilityUIMetods {
     }
 
     public static void setValueToInputField(String elementName, String value) {
-        String xpath = String.format(".//label[contains(text(), '%s')]/following-sibling::input", elementName);
-        SelenideElement element = $(By.xpath(xpath));
+        xpath = String.format(".//label[contains(text(), '%s')]/following-sibling::input", elementName);
+        element = $(By.xpath(xpath));
         $(By.xpath(xpath)).setValue(value);
         highlightElement(element);
         takeScreenshot();
@@ -64,7 +66,7 @@ public class UtilityUIMetods {
     }
 
     public static void selectValueInSelectorWithSpecifiedName(String selectorName, String value) {
-        String xpath = String.format(".//span[@class='md-select-icon' and ancestor::md-select[preceding-sibling::label[contains(text(), '%s')]]]", selectorName);
+        xpath = String.format(".//span[@class='md-select-icon' and ancestor::md-select[preceding-sibling::label[contains(text(), '%s')]]]", selectorName);
         $(By.xpath(xpath)).click();
         xpath = String.format(".//div[contains(text(), '%s') and parent::md-option]", value);
         $$(By.xpath(xpath)).filterBy(Condition.visible).get(0).click();
