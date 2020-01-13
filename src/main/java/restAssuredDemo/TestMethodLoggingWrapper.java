@@ -34,7 +34,7 @@ public class TestMethodLoggingWrapper {
         Allure.addAttachment("Response", "text/plain", responseBody.asString());
     }
 
-    @Step("Verify that response status is equal {status}")
+    @Step("Verify that response status is equal \"{status}\"")
     public static ValidatableResponse verifyResponseStatus(ValidatableResponse response, int status) {
         try {
             response.statusCode(status);
@@ -46,7 +46,7 @@ public class TestMethodLoggingWrapper {
         }
     }
 
-    @Step("Verify that response content type header is equal {contentType}")
+    @Step("Verify that response content type header is equal \"{contentType}\"")
     public static ValidatableResponse verifyResponseHeader(ValidatableResponse response, String contentType) {
         try {
             response.header("Content-Type", equalTo(contentType));
