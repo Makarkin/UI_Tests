@@ -1,6 +1,5 @@
 package restAssuredDemo;
 
-import io.restassured.RestAssured;
 import io.restassured.response.ValidatableResponse;
 import org.testng.annotations.Test;
 import restAssuredDemo.deserialization.User;
@@ -9,10 +8,8 @@ import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Random;
 
-import static io.restassured.RestAssured.*;
 import static org.testng.Assert.assertTrue;
 import static restAssuredDemo.TestMethodLoggingWrapper.*;
-import static restAssuredDemo.UserPropertyHandler.*;
 
 public class RestAssuredDemoTests {
 
