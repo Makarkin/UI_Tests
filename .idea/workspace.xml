@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
+    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="New tests8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/allure.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/environment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/GoogleCloudDemoTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/UtilityBusinessMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/UtilityUIMetods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudCalculatorPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudPricingPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudProductPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/GoogleCloudStartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/googleCloudSelenideDemo/pages/IAbstractPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reporting/MyLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/suites/tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test-demo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -506,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578923326457</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="New tests8">
+      <created>1578923695749</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1578923695749</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -548,10 +571,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578906922751" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578923325609">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578924247078">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923325609" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578924247078" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -560,22 +583,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578923625777">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578924595214">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578923625777" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1578923625777">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578924595214" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1578924595213">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578923625777" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1578923625777">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578924595213" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1578924595213">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578923625777" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1578923625777">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578924595213" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1578924595214">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578923625777" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578924595214" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -592,10 +615,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1577458161865" />
-    <state x="490" y="237" key="Maven.ArtifactSearchDialog" timestamp="1577340992270">
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog" timestamp="1578924807120">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="490" y="237" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577340992270" />
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578924807120" />
     <state x="184" y="98" key="MergeDialog" timestamp="1577282249154">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -608,10 +631,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578555093970" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578923328339">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578923697015">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923328339" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578923697015" />
     <state x="342" y="284" key="new project wizard" timestamp="1578568027987">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
