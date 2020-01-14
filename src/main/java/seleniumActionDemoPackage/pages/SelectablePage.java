@@ -4,9 +4,6 @@ import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import reporting.MyLogger;
 
-/**
- * Created by Sergey_Poritskiy on 6/15/2017.
- */
 public class SelectablePage extends AbstractPage {
 
     public static final By FIRST_ITEM_LOCATOR = By.xpath("//li[1]");

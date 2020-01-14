@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import static com.codeborne.selenide.Selenide.$;
 import static googleCloudSelenideDemo.UtilityUIMetods.*;
 
-public class GoogleCloudCalculatorPage implements IAbstractPage {
+public class GoogleCloudCalculatorPage {
 
     @Step("Navigate to \"Compute Input\" tab")
     public GoogleCloudCalculatorPage navigateToComputeInputTab() {
@@ -31,8 +31,7 @@ public class GoogleCloudCalculatorPage implements IAbstractPage {
         clickOnButton("Add to Estimate");
         return this;
     }
-
-    @Override
+    
     @Step("Check that value in \"{valueName}\" item equal \"{expectedValue}\" expected value")
     public boolean checkTheEstimateWindow(String valueName, String expectedValue) {
         String xpath = String.format(".//div[@class='md-list-item-text ng-binding' and contains(text(), '%s')]", valueName);

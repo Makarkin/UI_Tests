@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screenshots/scr31871955257100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr31874162728300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr31875155816000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr31876622439700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr31878621727000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr31879772526100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/scr31881261085700.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityBusinessMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityBusinessMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudCalculatorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudCalculatorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/IAbstractPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/RestAssuredDemoTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/browser/Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/browser/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/ResizablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/ResizablePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/SelectablePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seleniumActionDemoPackage/pages/SelectablePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,13 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00001" summary="First commit for test project">
-      <created>1577171238090</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1577171238090</updated>
     </task>
     <task id="LOCAL-00002" summary="Add new test with Selenide for Google Cloud Pages">
       <created>1577282189688</created>
@@ -538,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578926146932</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="CreateBranch">
+      <created>1578979265840</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1578979265840</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -557,7 +557,8 @@
     <MESSAGE value="New tests2" />
     <MESSAGE value="New tests3" />
     <MESSAGE value="New tests8" />
-    <option name="LAST_COMMIT_MESSAGE" value="New tests8" />
+    <MESSAGE value="CreateBranch" />
+    <option name="LAST_COMMIT_MESSAGE" value="CreateBranch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577695089854">
@@ -576,14 +577,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="543" y="68" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578897822736" />
-    <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578906922751">
+    <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578979588026">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578906922751" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578926146026">
+    <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578979588026" />
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578979605168">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578926146026" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578979605168" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -640,10 +641,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578555093970" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578926148434">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578979269448">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578926148434" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578979269448" />
     <state x="342" y="284" key="new project wizard" timestamp="1578568027987">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
