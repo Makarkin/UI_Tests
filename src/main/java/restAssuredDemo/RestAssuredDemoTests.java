@@ -9,7 +9,6 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Random;
 
 import static org.testng.Assert.assertEquals;
-import static org.testng.Assert.assertTrue;
 import static restAssuredDemo.TestMethodLoggingWrapper.*;
 
 public class RestAssuredDemoTests {
