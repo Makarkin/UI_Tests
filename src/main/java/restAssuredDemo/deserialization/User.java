@@ -33,6 +33,10 @@ public class User {
         this.coinCount = Integer.parseInt(coinCount);
     }
 
+    public int getCoinCount() {
+        return coinCount;
+    }
+
     public static User getUserFromProperties() throws IOException, NoSuchMethodException, InvocationTargetException, IllegalAccessException {
         User user = new User();
         String setterNameTemplate = "set%s";

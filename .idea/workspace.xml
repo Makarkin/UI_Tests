@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
+    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="Updating classes">
       <change afterPath="$PROJECT_DIR$/build/reports/tests/1578982505026.0.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/reports/tests/1578982505026.0.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/reports/tests/1578982638438.0.html" afterDir="false" />
@@ -70,13 +70,38 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr89348009127900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr89349179424000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr89350000585300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90190168455800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90192196207900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90193279464000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90194439735200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90196263036500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90197336607500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90198838403200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90212533615100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90216016292000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90216753382200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90219281841600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90219950495000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90226117847000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90226875825700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90227616844900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90228709037500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90229797304400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90230837059500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90231909098300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90233032847500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90234206713900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr90235025469000.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/RemoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/RemoteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restAssuredDemo/deserialization/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="allure-demo" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,7 +169,20 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GoogleCloudDemoTests.googleCloudTest">
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumActionDemoPackage.Runner" />
+      <module name="test-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumActionDemoPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ActionsDemoTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test-demo" />
       <extension name="coverage">
@@ -156,16 +194,6 @@
       <option name="PACKAGE_NAME" value="seleniumActionDemoPackage" />
       <option name="MAIN_CLASS_NAME" value="seleniumActionDemoPackage.ActionsDemoTests" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="test-demo" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/suites/tests.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -228,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.test" />
         <item itemvalue="TestNG.RemoteTest.test" />
         <item itemvalue="TestNG.ActionsDemoTests" />
-        <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -258,13 +286,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add new test with Selenide for Google Cloud Pages">
-      <created>1577282376747</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1577282376747</updated>
     </task>
     <task id="LOCAL-00004" summary="Add new test with Selenide for Google Cloud Pages2">
       <created>1577282749874</created>
@@ -602,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578979661538</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Updating classes">
+      <created>1578983919070</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1578983919070</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -634,10 +662,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1577698931666" />
-    <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1577366563530">
+    <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1579000694785">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1577366563530" />
+    <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1579000694785" />
     <state x="543" y="68" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578897822736">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -646,10 +674,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="690" y="329" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578979588026" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578983868705">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1578984249261">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578983868705" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1578984249261" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -658,22 +686,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578983868727">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578986585410">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578983868727" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1578983868727">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578986585410" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1578986585410">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578983868727" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1578983868727">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578986585410" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1578986585410">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578983868727" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1578983868727">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578986585410" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1578986585410">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578983868727" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578986585410" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1577458161865">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -710,10 +738,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578555093970" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578979673961">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1578984047469">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578979673961" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1578984047469" />
+    <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1578984018142">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="719" y="384" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578984018142" />
     <state x="342" y="284" key="new project wizard" timestamp="1578568027987">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
