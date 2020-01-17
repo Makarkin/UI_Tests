@@ -2,11 +2,12 @@ package googleCloudSelenideDemo;
 
 import com.codeborne.selenide.Configuration;
 import googleCloudSelenideDemo.businessObjects.AssertionOfVariableAndValue;
-import googleCloudSelenideDemo.pages.GoogleCloudCalculatorPage;
-import googleCloudSelenideDemo.pages.GoogleCloudStartPage;
+import googleCloudSelenideDemo.pages.*;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
+import reporting.MyLogger;
 
+import static com.codeborne.selenide.Selenide.open;
 import static googleCloudSelenideDemo.UtilityBusinessMethods.checkTheEstimateResultsOnPage;
 import static org.testng.Assert.assertTrue;
 
@@ -18,26 +19,26 @@ public class GoogleCloudDemoTests {
         Configuration.startMaximized = true;
         Configuration.timeout = 6000;
         Configuration.proxyPort = 8084;
-        //Configuration.browserVersion = "79.0.3945.88";
+        MyLogger.info("Going to URL: https://cloud.google.com/");
     }
 
     @Test
     public void googleCloudTest() {
-        GoogleCloudCalculatorPage page = new GoogleCloudStartPage()
-                .switchToProductsPage()
-                .switchToPricingPagePage()
-                .switchToCalculatorPage()
-                .navigateToComputeInputTab()
-                .setValueToInstanceInputField("4")
-                .selectValueInSelector("Operating System / Software",
+        open("https://cloud.google.com/");
+        GoogleCloudCalculatorPage page = new Page()
+                .switchToPageByLink("See all products", new Page())
+                .switchToPageByLink("See pricing", new Page())
+                .switchToPageByLink("Calculator", new GoogleCloudCalculatorPage())
+                .navigateToTab("Compute Engine")
+                .setValueToInputField("Number of instances","4")
+                .selectValueInSelectorWithSpecifiedName("Operating System / Software",
                         "Free: Debian, CentOS, CoreOS, Ubuntu, or other User Provided OS")
-                .selectValueInSelector("Machine Class", "Regular")
-                .selectValueInSelector("Machine type", "n1-standard-8 (vCPUs: 8, RAM: 30GB)")
-                .selectValueInSelector("Local SSD", "2x375 GB")
-                .selectValueInSelector("Datacenter location", "Frankfurt (europe-west3)")
-                .selectValueInSelector("Committed usage", "1 Year")
-                .addToEstimate();
-
+                .selectValueInSelectorWithSpecifiedName("Machine Class", "Regular")
+                .selectValueInSelectorWithSpecifiedName("Machine type", "n1-standard-8 (vCPUs: 8, RAM: 30GB)")
+                .selectValueInSelectorWithSpecifiedName("Local SSD", "2x375 GB")
+                .selectValueInSelectorWithSpecifiedName("Datacenter location", "Frankfurt (europe-west3)")
+                .selectValueInSelectorWithSpecifiedName("Committed usage", "1 Year")
+                .clickOnButton("Add to Estimate");
         assertTrue(checkTheEstimateResultsOnPage(new AssertionOfVariableAndValue(), page));
     }
 }
