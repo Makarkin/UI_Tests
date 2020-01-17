@@ -30,8 +30,9 @@ public class UtilityUIMetods {
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
+        String text = element.getText();
         element.click();
-        MyLogger.info("Clicking element '" + element.getText() + "' (Located: " + xpath + ")");
+        MyLogger.info("Clicking element '" + text + "' (Located: " + xpath + ")");
         takeScreenshot();
     }
 
@@ -39,7 +40,7 @@ public class UtilityUIMetods {
         xpath = String.format(".//button[contains(text(), '%s') and not(@disabled)]", elementName);
         element = $(By.xpath(xpath));
         highlightElement(element);
-        element.click();
+        element.scrollIntoView(false).click();
         MyLogger.info("Clicking element '" + elementName + "' (Located: " + xpath + ")");
         takeScreenshot();
     }
@@ -67,9 +68,9 @@ public class UtilityUIMetods {
 
     public static void selectValueInSelectorWithSpecifiedName(String selectorName, String value) {
         xpath = String.format(".//span[@class='md-select-icon' and ancestor::md-select[preceding-sibling::label[contains(text(), '%s')]]]", selectorName);
-        $(By.xpath(xpath)).click();
+        $(By.xpath(xpath)).scrollIntoView(false).click();
         xpath = String.format(".//div[contains(text(), '%s') and parent::md-option]", value);
-        $$(By.xpath(xpath)).filterBy(Condition.visible).get(0).click();
+        $$(By.xpath(xpath)).filterBy(Condition.visible).get(0).scrollIntoView(false).click();
         MyLogger.info("Select value '" + value + "' in selector '" + selectorName + "' (Located: " + xpath + ")");
         takeScreenshot();
     }

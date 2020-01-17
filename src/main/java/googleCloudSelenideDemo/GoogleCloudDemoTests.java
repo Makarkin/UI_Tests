@@ -14,9 +14,11 @@ public class GoogleCloudDemoTests {
 
     @BeforeTest
     private void config() {
+        Configuration.browser = "chrome";
         Configuration.startMaximized = true;
         Configuration.timeout = 6000;
-        Configuration.browserVersion = "79.0.3945.88";
+        Configuration.proxyPort = 8084;
+        //Configuration.browserVersion = "79.0.3945.88";
     }
 
     @Test
