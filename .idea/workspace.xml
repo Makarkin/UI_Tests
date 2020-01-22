@@ -1351,9 +1351,6 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr90234206713900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90235025469000.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/.gradle-enterprise/gradle-enterprise-workspace-id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1573,13 +1570,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00016" summary="new pom">
-      <created>1577452538892</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1577452538892</updated>
     </task>
     <task id="LOCAL-00017" summary="new pom">
       <created>1577453005502</created>
@@ -1917,11 +1907,29 @@
       <option name="project" value="LOCAL" />
       <updated>1579700334853</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Updating page classes">
+      <created>1579701730702</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1579701730702</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -1970,10 +1978,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1579701692899">
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1579701718830">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579701692899" />
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579701718830" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579701685148">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -2034,10 +2042,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579694915890" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579700601475">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579701743863">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579700601475" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579701743863" />
     <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579700631790">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
