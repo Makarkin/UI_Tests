@@ -1326,32 +1326,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
-    <favorite-branches>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/RefactoringBranch" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -1929,10 +1903,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1579699498833">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1579699956931">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579699498833" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579699956931" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1993,10 +1967,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579694915890" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579699508850">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579699920834">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579699508850" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579699920834" />
     <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1579000843316">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
