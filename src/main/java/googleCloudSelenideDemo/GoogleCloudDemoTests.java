@@ -17,11 +17,10 @@ public class GoogleCloudDemoTests {
 
     @BeforeTest
     private void config() {
-        //XmlSuite xmlSuite = new XmlSuite();
-        //xmlSuite.setParallel(XmlSuite.ParallelMode.METHODS);
-        //xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
+        XmlSuite xmlSuite = new XmlSuite();
+        xmlSuite.setParallel(XmlSuite.ParallelMode.METHODS);
+        xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
         Configuration.browser = "chrome";
-
         Configuration.startMaximized = true;
         Configuration.timeout = 6000;
         Configuration.proxyPort = 8084;
