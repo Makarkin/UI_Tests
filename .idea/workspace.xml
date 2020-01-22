@@ -1350,7 +1350,6 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr90233032847500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90234206713900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90235025469000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1376,6 +1375,13 @@
             <value>
               <list>
                 <branch-info repo="$PROJECT_DIR$" source="RefactoringBranch" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/RefactoringBranch" />
               </list>
             </value>
           </entry>
@@ -1570,13 +1576,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00018" summary="new pom">
-      <created>1577453791512</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1577453791512</updated>
     </task>
     <task id="LOCAL-00019" summary="new pom">
       <created>1577453989551</created>
@@ -1914,7 +1913,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579702192197</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Updating page classes">
+      <created>1579703622972</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1579703622972</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -1978,10 +1984,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1579702183793">
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1579703614739">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579702183793" />
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579703614739" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579701685148">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -2042,10 +2048,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579694915890" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579702196194">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579703681146">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579702196194" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579703681146" />
     <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579700631790">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
