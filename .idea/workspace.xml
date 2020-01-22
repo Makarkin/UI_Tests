@@ -1306,9 +1306,6 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr90234206713900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90235025469000.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/suites/tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suites/tests.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1327,22 +1324,16 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
     <favorite-branches>
       <branch-storage>
         <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="RefactoringBranch" />
+              </list>
+            </value>
+          </entry>
           <entry type="REMOTE">
             <value>
               <list>
@@ -1533,34 +1524,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00011" summary="new pom">
-      <created>1577450430745</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1577450430745</updated>
-    </task>
-    <task id="LOCAL-00012" summary="new pom">
-      <created>1577450748014</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1577450748014</updated>
-    </task>
-    <task id="LOCAL-00013" summary="new pom">
-      <created>1577450966114</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1577450966114</updated>
-    </task>
-    <task id="LOCAL-00014" summary="new pom">
-      <created>1577451654194</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1577451654194</updated>
     </task>
     <task id="LOCAL-00015" summary="new pom">
       <created>1577451821669</created>
@@ -1877,7 +1840,35 @@
       <option name="project" value="LOCAL" />
       <updated>1579693923585</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Updating page classes">
+      <created>1579697830927</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1579697830927</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Updating page classes">
+      <created>1579699506699</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1579699506699</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Updating page classes">
+      <created>1579699917313</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1579699917313</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Updating page classes">
+      <created>1579699975586</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1579699975586</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -1930,10 +1921,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1579697633891">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1579700258879">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579697633891" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579700258879" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1994,10 +1985,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579694915890" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579693925457">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579700311343">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579693925457" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579700311343" />
+    <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579700245980">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579700245980" />
     <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1579000843316">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
