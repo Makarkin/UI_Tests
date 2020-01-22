@@ -18,7 +18,10 @@
         <profile>
             <id>my_profile</id>
             <properties>
-                <test.param>${env.TEST_PARAM}</test.param>
+                <!--suppress UnresolvedMavenProperty -->
+                <test.param>${env.Parallel_Method}</test.param>
+                <!--suppress UnresolvedMavenProperty -->
+                <test.param>${env.Number_Of_Threads}</test.param>
             </properties>
         </profile>
     </profiles>
