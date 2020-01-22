@@ -14,18 +14,6 @@
         <allure-testng.version>2.6.0</allure-testng.version>
     </properties>
 
-    <profiles>
-        <profile>
-            <id>my_profile</id>
-            <properties>
-                <!--suppress UnresolvedMavenProperty -->
-                <test.param>${env.Parallel_Method}</test.param>
-                <!--suppress UnresolvedMavenProperty -->
-                <test.param>${env.Number_Of_Threads}</test.param>
-            </properties>
-        </profile>
-    </profiles>
-
     <dependencies>
 
         <dependency>

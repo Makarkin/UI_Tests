@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="AT demo" parallel="methods" thread-count="3">
+<suite name="AT demo" parallel="methods">
 
 <!--    <test verbose="1" name="Actions demo">-->
 <!--        <classes>-->
