@@ -14,6 +14,15 @@
         <allure-testng.version>2.6.0</allure-testng.version>
     </properties>
 
+    <profiles>
+        <profile>
+            <id>my_profile</id>
+            <properties>
+                <test.param>${env.TEST_PARAM}</test.param>
+            </properties>
+        </profile>
+    </profiles>
+
     <dependencies>
 
         <dependency>
@@ -84,6 +93,7 @@
             <version>4.1.2</version>
             <scope>compile</scope>
         </dependency>
+
         <dependency>
             <groupId>com.codeborne</groupId>
             <artifactId>selenide</artifactId>

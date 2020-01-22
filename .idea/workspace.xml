@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="Updating classes">
+    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="Updating page classes">
+      <change afterPath="$PROJECT_DIR$/.mvn/.gradle-enterprise/gradle-enterprise-workspace-id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/extensions.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/reports/tests/1578982505026.0.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/reports/tests/1578982505026.0.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build/reports/tests/1578982638438.0.html" afterDir="false" />
@@ -722,6 +724,21 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr191310664341400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191311102432800.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191311673258600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191317366165800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191321360242500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191322099127600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191325201126000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191325902784500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191331829178800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191332618438200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191333409344300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191334554091300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191335616527700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191336688719900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191337719811800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191338898387100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191340071995900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191340917664300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191363418644000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191367553363500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191367728083800.jpg" afterDir="false" />
@@ -746,6 +763,25 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr191492879581000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191494687899200.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191495289051400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191515941526000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191516288042000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191516643925500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191519433985100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191534224507100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191539291251700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191540014742600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191543042771400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191543730227900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191549475371400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191550277661000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191551033534000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191552130091100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191553231097200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191554309262800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191555374041500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191556551442000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191557656643000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191558514105900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191591528798000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191595510843800.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191595690722200.jpg" afterDir="false" />
@@ -754,35 +790,65 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr191604314473900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191604793715700.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191605368913000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191626182887300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191626524806200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191626872201000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191629667628800.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191633495211300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191637140723200.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191637319519400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191639970577200.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191640163521500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191643730456000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191645284278400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191645719700200.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191646316201600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191647380228600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191647545135200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191648258262700.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191648409722700.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191649415555400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191650431555900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191650985243000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191651506777000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191652506135100.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191653127428500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191678790235900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191680490881000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191681476608900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191682627541000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191686677099700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191687982724200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191689456016500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191699224444100.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191702643179700.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191702821568600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191703618145100.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191705092662400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191705294740500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191706857613300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191707587987200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191710408552800.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191710613623100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191711125392500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191711327773900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191711909937600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191712945884500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191713995787300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191715022398300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191716011069100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191716525053200.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191717082731600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191717298401900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191718051419200.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191718579951900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191719179619900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191720281633300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191721378565300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191722436386300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191723588165500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191724750287500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191725619769300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191752185758600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191755785373600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191755961639800.jpg" afterDir="false" />
@@ -812,6 +878,10 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr191824910815500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191825982243100.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191827162081800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191876452513300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191876779209500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191877127323300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr191879658029600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191933989448100.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191937608829600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr191937793548400.jpg" afterDir="false" />
@@ -842,6 +912,61 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr192016360266800.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr192017504151500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr192018343247900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192438577089200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192438907267300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192439283385900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192442201589900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192885399033400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192885450564000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192889082826100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192889549275300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192889783502400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192890268476500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192892395065300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192893083245500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192893139760400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192893832249800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192899232227300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192899646916700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192900023784700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192900461107900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192900804322900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192901268858900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192901951726100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192902358652300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192903056633900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192903486457200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192904151092300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192904601678300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192905180019700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192905652135000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192906350472500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192906800602400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192907496724700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192907925842300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192908342430200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr192908807960700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr24751757443800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr24755142179100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr24755824988300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr24758779920800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr24759483979500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr24760296985400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2485211599400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2488719405400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2489461864900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2492170283400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2492870904500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2498617955000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2499398666400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2500166427400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2501364241000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2502464577800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2503554744000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2504635193300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2505799462400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2506908838500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr2507796324000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr260060312294600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr260062027910400.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr260063037791700.jpg" afterDir="false" />
@@ -945,6 +1070,133 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr349023790043500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr349024949214800.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr349025797850100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349773376259000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349776613618600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349777388214900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349779880542000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349780579967500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349785565432000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349786337874300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349787136615800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349788274074800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349789408154000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349790520988500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349791595641900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349792801187800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349793914630500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr349794776579600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350570206583400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350571862433300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350572901402700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350574299978600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350576268998600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350577582200100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350579310503700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350593113817900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350596526395000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350597229877700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350599741256700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350600455179500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350605661294800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350606405315500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350607174277100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350608339664200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350609450256200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350610591582700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350611716287400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350612864389800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350614007851400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr350614843309200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352276288911200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352279730938200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352280451026200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352283034102700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352283754203500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352288475056400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352289221429100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352289991517100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352291128612700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352292245604700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352293329310500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352294416055300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352295587929900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352296763534400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352297602253600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352367574000100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352371060150800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352371774204500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352374374691100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352375065508700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352380329340700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352381134242700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352381926358100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352383069592900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352384172006500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352385283420000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352386406004800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352387600407600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352388743659800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr352389595403800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353453081706600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353456512951600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353457282971600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353459617469100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353460330398000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353465466524200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353466195719700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353466977551300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353468121474400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353469195218700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353470320989500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353471371326500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353472558287700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353473716174100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr353474575601600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354881034377300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354884577390200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354885304003000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354887828787800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354888538189600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354894247463200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354894987889500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354895726202300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354896847152100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354897934545500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354899036551100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354900126698300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354901298773800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354902434114900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr354903339679200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355011704035800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355015980845200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355016719618400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355020773452300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355021475972600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355026407832000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355027188681400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355027957816800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355029101993200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355030188874500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355031280867600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355032329818200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355033473718900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355034621032700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355035483498900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355469573372300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355473458244300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355474198079100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355476773995700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355477501967500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355482833642100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355483626026300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355484410464400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355485520303500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355486584934200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355487652382900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355488716294000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355489885451400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355491019885200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr355491868771900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr88757853337000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr88761481148900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr88762239897800.jpg" afterDir="false" />
@@ -1025,14 +1277,12 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr90233032847500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90234206713900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90235025469000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/Page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityUIMetods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/UtilityUIMetods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudCalculatorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudCalculatorPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudPricingPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudProductPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/pages/GoogleCloudStartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/RemoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/RemoteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/reporting/MyLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reporting/MyLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suites/tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suites/tests.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1113,7 +1363,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Properties&#10;TEXT" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gs-gradle" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -1134,7 +1384,7 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.GoogleCloudDemoTests">
+  <component name="RunManager" selected="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumActionDemoPackage.Runner" />
       <module name="test-demo" />
@@ -1213,9 +1463,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" />
         <item itemvalue="TestNG.GoogleCloudDemoTests" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
-        <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.test" />
       </list>
@@ -1243,13 +1493,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Add new test with Rest Assured4565675">
-      <created>1577436080034</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1577436080034</updated>
     </task>
     <task id="LOCAL-00009" summary="Add new test with Rest Assured4565675">
       <created>1577436361119</created>
@@ -1587,7 +1830,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579239975786</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Updating page classes">
+      <created>1579244401351</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1579244401351</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -1608,17 +1858,18 @@
     <MESSAGE value="New tests8" />
     <MESSAGE value="CreateBranch" />
     <MESSAGE value="Updating classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating classes" />
+    <MESSAGE value="Updating page classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating page classes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577695089854">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577695089854" />
-    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577698931666">
+    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579245300982">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1577698931666" />
+    <state x="710" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1579245300982" />
     <state x="765" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1579240467888">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1635,34 +1886,34 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1579239971406">
+    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1579244396975">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579239971406" />
+    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579244396975" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577282561798" />
-    <state x="740" y="324" key="FileChooserDialogImpl" timestamp="1577170944325">
+    <state x="740" y="324" key="FileChooserDialogImpl" timestamp="1579506101614">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1577170944325" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1579244232068">
+    <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1579506101614" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1579691990107">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579244232068" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1579244232068">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579691990107" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1579691990107">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579244232068" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1579244232068">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579691990107" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1579691990107">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579244232068" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1579244232068">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579691990107" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1579691990107">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579244232068" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579691990107" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1579157127615">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1679,10 +1930,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579157127615" />
-    <state x="490" y="237" key="Maven.ArtifactSearchDialog" timestamp="1578924807120">
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog" timestamp="1579245558301">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="490" y="237" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1578924807120" />
+    <state x="490" y="237" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579245558301" />
     <state x="184" y="98" key="MergeDialog" timestamp="1577282249154">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1699,18 +1950,18 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1578555093970" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579239979003">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579244405536">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579239979003" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579244405536" />
     <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1579000843316">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="719" y="384" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579000843316" />
-    <state x="342" y="284" key="new project wizard" timestamp="1578568027987">
+    <state x="342" y="284" key="new project wizard" timestamp="1579509554953">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1578568027987" />
+    <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1579509554953" />
     <state x="616" y="270" key="run.anything.popup" timestamp="1577708432773">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
