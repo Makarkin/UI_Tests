@@ -974,6 +974,51 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr197686788415600.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr197687625764300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr197687686590600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201516528078800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201520441582800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201521177725300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201524385773700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201525169968400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201530850147700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201531670079600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201532513191700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201533710941200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201534797676300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201535904008800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201536958292800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201538164624800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201539342366800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201540241451600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201984446929100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201988518424200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201989283848200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201992535593000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201993308985200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr201999457343200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202000355974400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202001200262700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202002362862800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202003474744500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202004619223400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202005710283000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202006887750700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202008048080700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202008999504800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202010800036500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202012206881400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202012951452200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202014142125000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202014914333300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202016760333100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202017591269800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202018379668200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202019554810800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202020633356100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202021713448700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202022801047100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202023969817400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202025136794900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr202026065606300.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr24751757443800.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr24755142179100.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr24755824988300.jpg" afterDir="false" />
@@ -1306,6 +1351,9 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr90234206713900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90235025469000.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/.gradle-enterprise/gradle-enterprise-workspace-id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1331,13 +1379,6 @@
             <value>
               <list>
                 <branch-info repo="$PROJECT_DIR$" source="RefactoringBranch" />
-              </list>
-            </value>
-          </entry>
-          <entry type="REMOTE">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="origin/RefactoringBranch" />
               </list>
             </value>
           </entry>
@@ -1457,10 +1498,18 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="googleCloudSelenideDemo" />
       <option name="MAIN_CLASS_NAME" value="googleCloudSelenideDemo.GoogleCloudDemoTests" />
       <option name="METHOD_NAME" value="googleCloudTest" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -1495,8 +1544,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" />
-        <item itemvalue="TestNG.GoogleCloudDemoTests" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
+        <item itemvalue="TestNG.GoogleCloudDemoTests" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.test" />
       </list>
@@ -1524,13 +1573,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00015" summary="new pom">
-      <created>1577451821669</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1577451821669</updated>
     </task>
     <task id="LOCAL-00016" summary="new pom">
       <created>1577452538892</created>
@@ -1868,7 +1910,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579699975586</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Updating page classes">
+      <created>1579700334853</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1579700334853</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -1893,10 +1942,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updating page classes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579697744172">
+    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579701658844">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579697744172" />
+    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579701658844" />
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577695089854">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1921,34 +1970,34 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="178" key="CommitChangelistDialog2" timestamp="1579700258879">
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1579701692899">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="178" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579700258879" />
-    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1577282561798">
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579701692899" />
+    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579701685148">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1577282561798" />
+    <state x="92" y="92" width="1736" height="976" key="DiffContextDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579701685148" />
     <state x="740" y="324" key="FileChooserDialogImpl" timestamp="1579506101614">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1579506101614" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1579697187573">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1579701574416">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579697187573" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1579697187573">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1579701574416">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579697187573" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1579697187572">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1579701574416">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579697187572" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1579697187573">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1579701574416">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579697187573" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1579157127615">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -1985,18 +2034,18 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579694915890" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579700311343">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579700601475">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579700311343" />
-    <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579700245980">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579700601475" />
+    <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579700631790">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579700245980" />
-    <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1579000843316">
+    <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579700631790" />
+    <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1579700588504">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="719" y="384" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579000843316" />
+    <state x="719" y="384" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579700588504" />
     <state x="342" y="284" key="new project wizard" timestamp="1579509554953">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
