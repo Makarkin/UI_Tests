@@ -1,23 +1,23 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="AT demo" parallel="classes" thread-count="3">
+<suite name="AT demo" parallel="methods">
 
-    <test verbose="1" name="Actions demo">
-        <classes>
-            <class name="seleniumActionDemoPackage.ActionsDemoTests"/>
-        </classes>
-    </test>
+<!--    <test verbose="1" name="Actions demo">-->
+<!--        <classes>-->
+<!--            <class name="seleniumActionDemoPackage.ActionsDemoTests"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 
     <test name="Cloud Google Test">
         <classes>
             <class name="googleCloudSelenideDemo.GoogleCloudDemoTests"/>
         </classes>
     </test>
-    
-    <test name="Test for Custom API">
-        <classes>
-            <class name="restAssuredDemo.RestAssuredDemoTests"/>
-        </classes>
-    </test>
+
+<!--    <test name="Test for Custom API">-->
+<!--        <classes>-->
+<!--            <class name="restAssuredDemo.RestAssuredDemoTests"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 
 <!--    <test name="Test for parallel remote execution">-->
 <!--        <classes>-->

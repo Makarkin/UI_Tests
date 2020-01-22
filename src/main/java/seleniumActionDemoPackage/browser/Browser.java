@@ -30,6 +30,7 @@ public class Browser {
         if (instance != null) {
             return instance;
         }
+
         return instance = init();
     }
 
