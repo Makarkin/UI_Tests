@@ -1350,6 +1350,7 @@
       <change afterPath="$PROJECT_DIR$/screenshots/scr90233032847500.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90234206713900.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/screenshots/scr90235025469000.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1394,6 +1395,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -1576,13 +1578,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00022" summary="new pom">
-      <created>1577454779897</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1577454779897</updated>
     </task>
     <task id="LOCAL-00023" summary="new pom">
       <created>1577455037508</created>
@@ -1920,7 +1915,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579765514320</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Updating page classes">
+      <created>1579765694140</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1579765694140</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -1988,10 +1990,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1579765505596">
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1579765685792">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579765505596" />
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1579765685792" />
     <state x="14" y="146" width="1736" height="976" key="DiffContextDialog" timestamp="1579703906420">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -2052,18 +2054,26 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579694915890" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579765553918">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1579766082382">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579765553918" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579766082382" />
     <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579700631790">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579700631790" />
-    <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1579700588504">
+    <state x="771" y="500" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579765730874">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="719" y="384" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579700588504" />
+    <state x="771" y="500" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1579765730874" />
+    <state x="719" y="384" key="git4idea.merge.GitMergeDialog" timestamp="1579766156425">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="719" y="384" key="git4idea.merge.GitMergeDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579766156425" />
+    <state x="692" y="384" key="git4idea.merge.GitPullDialog" timestamp="1579766124162">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="692" y="384" key="git4idea.merge.GitPullDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579766124162" />
     <state x="342" y="284" key="new project wizard" timestamp="1579761609109">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
