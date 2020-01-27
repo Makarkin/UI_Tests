@@ -3,7 +3,6 @@ package googleCloudSelenideDemo;
 import com.codeborne.selenide.Configuration;
 import googleCloudSelenideDemo.businessObjects.AssertionOfVariableAndValue;
 import googleCloudSelenideDemo.pages.*;
-import org.testng.TestNG;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import org.testng.xml.XmlSuite;
