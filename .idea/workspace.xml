@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="" />
+    <list default="true" id="734eae2c-085c-4188-b3ba-f1922413c9e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113254035.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113254035.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113332775.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113332775.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113332775.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113332775.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113473592.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113473592.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113473852.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113473852.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113560155.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113560155.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113568237.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113568237.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113621711.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113621711.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113622269.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113622269.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113694139.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113694139.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113694701.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580113694701.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580114199224.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580114199224.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580114199501.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1580114199501.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6152608840800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6231346893700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6231403212000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6372266388100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6372451387800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6458815646200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6466797813000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6520302899300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6520892832200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6592863588800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr6593522645600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr7098020217900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/scr7098166440600.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/googleCloudSelenideDemo/GoogleCloudDemoTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +117,12 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo" />
+      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\src\main\resources" />
+      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\src\main\java\restAssuredDemo" />
+      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\src\main\resources" />
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\src" />
@@ -82,15 +130,12 @@
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo" />
       <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\src\main\java" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo" />
-      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\src\main\resources" />
-      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\src\main\java\restAssuredDemo" />
-      <recent name="C:\Users\Stanislav_Makarkin\IdeaProjects\allure-demo\target\allure-results" />
-    </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="numberOfThreads" value="3" />
+      </envs>
       <option name="MAIN_CLASS_NAME" value="seleniumActionDemoPackage.Runner" />
       <module name="test-demo" />
       <extension name="coverage">
@@ -103,7 +148,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Stanislav_Makarkin/Repositories/UI_Tests/src/main/resources/suites/tests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test-demo" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/suites/tests.xml" />
       <option name="PACKAGE_NAME" value="" />
@@ -114,6 +159,9 @@
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="numberOfThreads" value="4" />
+      </envs>
       <properties />
       <listeners />
       <method v="2">
@@ -128,9 +176,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="googleCloudSelenideDemo" />
       <option name="MAIN_CLASS_NAME" value="googleCloudSelenideDemo.GoogleCloudDemoTests" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="numberOfThreads" value="1" />
+      </envs>
       <properties />
       <listeners />
       <method v="2">
@@ -157,6 +216,9 @@
         <value defaultName="moduleWithDependencies" />
       </option>
       <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="numberOfThreads" value="1" />
+      </envs>
       <properties />
       <listeners />
       <method v="2">
@@ -171,10 +233,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="googleCloudSelenideDemo" />
       <option name="MAIN_CLASS_NAME" value="googleCloudSelenideDemo.GoogleCloudDemoTests" />
       <option name="METHOD_NAME" value="test" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="numberOfThreads" value="1" />
+      </envs>
       <properties />
       <listeners />
       <method v="2">
@@ -183,17 +256,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.Runner" />
-      <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" />
+      <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/Repositories/UI_Tests/src/main/resources/suites/tests.xml" />
       <item itemvalue="TestNG.GoogleCloudDemoTests" />
       <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
       <item itemvalue="TestNG.GoogleCloudDemoTests.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/IdeaProjects/allure-demo/src/main/resources/suites/tests.xml" />
-        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
-        <item itemvalue="TestNG.GoogleCloudDemoTests" />
         <item itemvalue="Application.Runner" />
+        <item itemvalue="TestNG.C:/Users/Stanislav_Makarkin/Repositories/UI_Tests/src/main/resources/suites/tests.xml" />
+        <item itemvalue="TestNG.GoogleCloudDemoTests" />
+        <item itemvalue="TestNG.GoogleCloudDemoTests.googleCloudTest" />
         <item itemvalue="TestNG.GoogleCloudDemoTests.test" />
       </list>
     </recent_temporary>
@@ -220,13 +293,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576853073665</updated>
-    </task>
-    <task id="LOCAL-00018" summary="new pom">
-      <created>1577453791512</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1577453791512</updated>
     </task>
     <task id="LOCAL-00019" summary="new pom">
       <created>1577453989551</created>
@@ -564,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580112885230</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Updating page classes">
+      <created>1580112950760</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1580112950760</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -602,10 +675,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updating page classes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579701658844">
+    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580114414934">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1579701658844" />
+    <state x="475" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1580114414934" />
     <state x="92" y="92" width="1736" height="976" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577695089854">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -630,10 +703,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="710" y="469" key="#xdebugger.evaluate/0.0.1920.1160@0.0.1920.1160" timestamp="1579085065291" />
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1580112883855">
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2" timestamp="1580112949390">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1580112883855" />
+    <state x="531" y="431" width="745" height="548" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1580112949390" />
     <state x="92" y="92" width="1736" height="976" key="DiffContextDialog" timestamp="1579701685148">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -642,22 +715,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="324" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1579506101614" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1579701574416">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1580114676044">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1579701574416">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1580114676044" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1580114676044">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1579701574416">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1580114676044" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1580114676044">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1579701574416">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1580114676044" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1580114676044">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1579701574416" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1580114676044" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1579157127615">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -694,10 +767,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="463" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1579694915890" />
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1580112888185">
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2" timestamp="1580112953583">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1580112888185" />
+    <state x="552" y="315" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1580112953583" />
     <state x="92" y="92" width="1736" height="976" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579700631790">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
