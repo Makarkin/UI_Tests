@@ -1,12 +1,12 @@
 package googleCloudSelenideDemo.pages;
 
+import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
 import io.qameta.allure.Allure;
 import io.qameta.allure.Step;
-import org.openqa.selenium.By;
 import reporting.MyLogger;
 
-import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 import static googleCloudSelenideDemo.UtilityUIMetods.*;
 
@@ -25,7 +25,7 @@ public class Page {
         String link = getWebDriver().getCurrentUrl();
         Allure.addAttachment("Reference to page", "text/plain", link);
         xpath = String.format(".//a[contains(text(), '%s')]", elementName);
-        element = $(By.xpath(xpath));
+        element = $$x(xpath).filterBy(Condition.visible).get(0);
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);

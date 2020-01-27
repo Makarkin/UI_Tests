@@ -1,2 +1,9 @@
 # Default ignored files
 /workspace.xml
+screenshots/*
+.idea/*
+.gitignore
+build/*
+*.jpg
+*.html
+*.png

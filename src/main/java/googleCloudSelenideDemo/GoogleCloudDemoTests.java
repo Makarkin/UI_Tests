@@ -18,10 +18,8 @@ public class GoogleCloudDemoTests {
     private void config() {
         XmlSuite xmlSuite = new XmlSuite();
         xmlSuite.setParallel(XmlSuite.ParallelMode.METHODS);
-
-        System.out.println(String.valueOf(xmlSuite.getThreadCount()));
         xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
-        System.out.println(String.valueOf(xmlSuite.getThreadCount()));
+        System.out.println(System.getenv("numberOfThreads"));
         Configuration.browser = "chrome";
         Configuration.startMaximized = true;
         Configuration.timeout = 6000;
@@ -33,29 +31,10 @@ public class GoogleCloudDemoTests {
     public void googleCloudTest() {
         open("https://cloud.google.com/");
         GoogleCloudCalculatorPage page = new Page()
+                .switchToPageByLink("Products", new Page())
                 .switchToPageByLink("See all products", new Page())
                 .switchToPageByLink("See pricing", new Page())
-                .switchToPageByLink("Calculator", new GoogleCloudCalculatorPage())
-                .navigateToTab("Compute Engine")
-                .setValueToInputField("Number of instances","4")
-                .selectValueInSelectorWithSpecifiedName("Operating System / Software",
-                        "Free: Debian, CentOS, CoreOS, Ubuntu, or other User Provided OS")
-                .selectValueInSelectorWithSpecifiedName("Machine Class", "Regular")
-                .selectValueInSelectorWithSpecifiedName("Machine type", "n1-standard-8 (vCPUs: 8, RAM: 30GB)")
-                .selectValueInSelectorWithSpecifiedName("Local SSD", "2x375 GB")
-                .selectValueInSelectorWithSpecifiedName("Datacenter location", "Frankfurt (europe-west3)")
-                .selectValueInSelectorWithSpecifiedName("Committed usage", "1 Year")
-                .clickOnButton("Add to Estimate");
-        assertTrue(checkTheEstimateResultsOnPage(new AssertionOfVariableAndValue(), page));
-    }
-
-    @Test
-    public void googleCloudTest1() {
-        open("https://cloud.google.com/");
-        GoogleCloudCalculatorPage page = new Page()
-                .switchToPageByLink("See all products", new Page())
-                .switchToPageByLink("See pricing", new Page())
-                .switchToPageByLink("Calculator", new GoogleCloudCalculatorPage())
+                .switchToPageByLink("Calculators", new GoogleCloudCalculatorPage())
                 .navigateToTab("Compute Engine")
                 .setValueToInputField("Number of instances","4")
                 .selectValueInSelectorWithSpecifiedName("Operating System / Software",
