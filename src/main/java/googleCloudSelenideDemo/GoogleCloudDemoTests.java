@@ -3,7 +3,6 @@ package googleCloudSelenideDemo;
 import com.codeborne.selenide.Configuration;
 import googleCloudSelenideDemo.businessObjects.AssertionOfVariableAndValue;
 import googleCloudSelenideDemo.pages.*;
-import org.testng.TestNG;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import org.testng.xml.XmlSuite;
@@ -19,10 +18,7 @@ public class GoogleCloudDemoTests {
     private void config() {
         XmlSuite xmlSuite = new XmlSuite();
         xmlSuite.setParallel(XmlSuite.ParallelMode.METHODS);
-
-        System.out.println(String.valueOf(xmlSuite.getThreadCount()));
         xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
-        System.out.println(String.valueOf(xmlSuite.getThreadCount()));
         Configuration.browser = "chrome";
         Configuration.startMaximized = true;
         Configuration.timeout = 6000;
@@ -34,9 +30,10 @@ public class GoogleCloudDemoTests {
     public void googleCloudTest() {
         open("https://cloud.google.com/");
         GoogleCloudCalculatorPage page = new Page()
+                .switchToPageByLink("Products", new Page())
                 .switchToPageByLink("See all products", new Page())
                 .switchToPageByLink("See pricing", new Page())
-                .switchToPageByLink("Calculator", new GoogleCloudCalculatorPage())
+                .switchToPageByLink("Calculators", new GoogleCloudCalculatorPage())
                 .navigateToTab("Compute Engine")
                 .setValueToInputField("Number of instances","4")
                 .selectValueInSelectorWithSpecifiedName("Operating System / Software",
