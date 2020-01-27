@@ -1,7 +1,7 @@
-\screenshots\
-.idea
+screenshots/*
+.idea/*
 .gitignore
-\build\
+build/*
 *.jpg
 *.html
 *.png
