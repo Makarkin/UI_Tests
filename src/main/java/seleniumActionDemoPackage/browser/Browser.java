@@ -130,7 +130,6 @@ public class Browser {
         return screenshot;
     }
 
-
     public static void kill() {
         if (instance != null) {
             try {
