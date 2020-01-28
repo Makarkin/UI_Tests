@@ -1,4 +1,4 @@
-package seleniumActionDemoPackage;
+package defaultSeleniumTests;
 
 import seleniumActionDemoPackage.browser.Browser;
 import org.testng.annotations.*;
