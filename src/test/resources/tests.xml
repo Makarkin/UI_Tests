@@ -1,12 +1,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="AT demo" parallel="classes">
+<suite name="AT demo" parallel="classes" thread-count="3">
 
 
-    <test verbose="1" name="Actions demo">
-        <classes>
-            <class name="seleniumActionDemoPackage.ActionsDemoTests"/>
-        </classes>
-    </test>
+<!--    <test verbose="1" name="Actions demo">-->
+<!--        <classes>-->
+<!--            <class name="seleniumActionDemoPackage.ActionsDemoTests"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 
     <test name="Cloud Google Test">
         <classes>
