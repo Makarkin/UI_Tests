@@ -104,7 +104,7 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
-                        <xmlFile>src/main/resources/suites/tests.xml</xmlFile>
+                        <xmlFile>src/test/resources/tests.xml</xmlFile>
                     </suiteXmlFiles>
                     <workingDirectory>./</workingDirectory>
                     <argLine>
