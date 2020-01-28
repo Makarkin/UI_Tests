@@ -26,30 +26,29 @@ public class GoogleCloudCalculatorPage extends Page {
         element = $x(xpath).waitUntil(Condition.exist, 10000);
         clickOnInnerElement(javascriptExecutor, element);
         takeScreenshot();
-
         unHighlightElement(element);
         return this;
     }
 
-    @Step("Set \"{value}\" value in \"Number of instances\" input")
-    public GoogleCloudCalculatorPage setValueToInputField(String elementName, String value) {
+    @Step("Set \"{insertionValue}\" value in \"Number of instances\" input")
+    public GoogleCloudCalculatorPage setValueToInputField(String elementName, String insertionValue) {
         xpath = String.format(".//label[contains(text(), '%s')]/following-sibling::input", elementName);
         element = $x(xpath);
-        $x(xpath).setValue(value);
+        $x(xpath).setValue(insertionValue);
         highlightElement(element);
         takeScreenshot();
         unHighlightElement(element);
-        MyLogger.info("Set value '" + value + "' to input field '" + elementName + "' (Located: " + xpath + ")");
+        MyLogger.info("Set value '" + insertionValue + "' to input field '" + elementName + "' (Located: " + xpath + ")");
         return this;
     }
 
-    @Step("Select \"{value}\" item in \"{selectorName}\" selector")
-    public GoogleCloudCalculatorPage selectValueInSelectorWithSpecifiedName(String selectorName, String value) {
+    @Step("Select \"{selectionValue}\" item in \"{selectorName}\" selector")
+    public GoogleCloudCalculatorPage selectValueInSelectorWithSpecifiedName(String selectorName, String selectionValue) {
         xpath = String.format(".//span[@class='md-select-icon' and ancestor::md-select[preceding-sibling::label[contains(text(), '%s')]]]", selectorName);
         clickOnInnerElement(javascriptExecutor, $x(xpath));
-        xpath = String.format(".//div[contains(text(), '%s') and parent::md-option]", value);
+        xpath = String.format(".//div[contains(text(), '%s') and parent::md-option]", selectionValue);
         clickOnInnerElement(javascriptExecutor, $$x(xpath).filterBy(Condition.visible).get(0).scrollIntoView(false));
-        MyLogger.info("Select value '" + value + "' in selector '" + selectorName + "' (Located: " + xpath + ")");
+        MyLogger.info("Select selectionValue '" + selectionValue + "' in selector '" + selectorName + "' (Located: " + xpath + ")");
         takeScreenshot();
         return this;
     }
