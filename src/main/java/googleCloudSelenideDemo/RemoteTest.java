@@ -29,20 +29,10 @@ public class RemoteTest {
     }
 
     @Test
-    public void googleCloudTest1() {
+    public void googleCloudTest() {
         WebDriver driver = startUp();
         driver.navigate().to("https://cloud.google.com/pricing/");
         System.out.println("Remote test1 running");
-        long id = Thread.currentThread().getId();
-        System.out.println("Third test, first class. Thread id is: " + id);
-        tearDown(driver);
-    }
-
-    @Test
-    public void googleCloudTest2() {
-        WebDriver driver = startUp();
-        driver.navigate().to("https://cloud.google.com/products/calculator/");
-        System.out.println("Remote test2 running");
         long id = Thread.currentThread().getId();
         System.out.println("Third test, first class. Thread id is: " + id);
         tearDown(driver);
