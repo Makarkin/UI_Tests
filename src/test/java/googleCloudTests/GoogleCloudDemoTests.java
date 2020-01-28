@@ -1,4 +1,4 @@
-package googleCloudSelenideDemo;
+package googleCloudTests;
 
 import com.codeborne.selenide.Configuration;
 import googleCloudSelenideDemo.businessObjects.AssertionOfVariableAndValue;
@@ -18,7 +18,7 @@ public class GoogleCloudDemoTests {
     private void config() {
         XmlSuite xmlSuite = new XmlSuite();
         xmlSuite.setParallel(XmlSuite.ParallelMode.METHODS);
-        xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
+        //xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
         System.out.println("Thread count = " + xmlSuite.getThreadCount());
         Configuration.browser = "chrome";
         Configuration.startMaximized = true;

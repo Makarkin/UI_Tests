@@ -1,4 +1,4 @@
-package googleCloudSelenideDemo;
+package googleCloudTests;
 
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;

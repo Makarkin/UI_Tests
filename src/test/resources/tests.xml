@@ -2,27 +2,27 @@
 <suite name="AT demo" parallel="classes">
 
 
-<!--    <test verbose="1" name="Actions demo">-->
-<!--        <classes>-->
-<!--            <class name="seleniumActionDemoPackage.ActionsDemoTests"/>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="Actions demo">
+        <classes>
+            <class name="defaultSeleniumTests.ActionsDemoTests"/>
+        </classes>
+    </test>
 
     <test name="Cloud Google Test">
         <classes>
-            <class name="googleCloudSelenideDemo.GoogleCloudDemoTests"/>
+            <class name="googleCloudTests.GoogleCloudDemoTests"/>
         </classes>
     </test>
 
     <test name="Test for Custom API">
         <classes>
-            <class name="restAssuredDemo.RestAssuredDemoTests"/>
+            <class name="restTests.RestAssuredDemoTests"/>
         </classes>
     </test>
 
 <!--    <test name="Test for parallel remote execution">-->
 <!--        <classes>-->
-<!--            <class name="googleCloudSelenideDemo.RemoteTest"/>-->
+<!--            <class name="googleCloudTests.RemoteTest"/>-->
 <!--        </classes>-->
 <!--    </test>-->
 
