@@ -23,7 +23,7 @@ public class Page {
 
     protected static void clickOnLink(String elementName) {
         String link = getWebDriver().getCurrentUrl();
-        Allure.addAttachment("Reference to page", "text/html", link);
+        Allure.addAttachment("Reference to page", "text/plain", link);
         xpath = String.format(".//a[contains(text(), '%s')]", elementName);
         element = $$x(xpath).filterBy(Condition.visible).get(0);
         highlightElement(element);
