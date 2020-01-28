@@ -19,7 +19,7 @@ public class GoogleCloudDemoTests {
         XmlSuite xmlSuite = new XmlSuite();
         xmlSuite.setParallel(XmlSuite.ParallelMode.METHODS);
         xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
-        System.out.println(System.getenv("numberOfThreads"));
+        System.out.println("Thread count = " + xmlSuite.getThreadCount());
         Configuration.browser = "chrome";
         Configuration.startMaximized = true;
         Configuration.timeout = 6000;
