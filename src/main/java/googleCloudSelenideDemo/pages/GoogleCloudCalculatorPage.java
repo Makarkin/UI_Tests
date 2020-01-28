@@ -3,6 +3,7 @@ package googleCloudSelenideDemo.pages;
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Selenide;
 import com.codeborne.selenide.SelenideElement;
+import googleCloudSelenideDemo.UtilityUIMetods;
 import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -18,12 +19,14 @@ public class GoogleCloudCalculatorPage extends Page {
 
     @Step("Navigate to \"{tabName}\" tab")
     public GoogleCloudCalculatorPage navigateToTab(String tabName) {
+        UtilityUIMetods.waitUntilPageIsCompletelyLoaded(getWebDriver(), 5);
         Selenide.switchTo().frame(getWebDriver().findElement(By.xpath(".//iframe")))
                 .switchTo().frame(getWebDriver().findElement(By.xpath(".//iframe")));
         xpath = String.format(".//md-tab-item[descendant::div[@title='%s']]", tabName);
         element = $x(xpath).waitUntil(Condition.exist, 10000);
         clickOnInnerElement(javascriptExecutor, element);
         takeScreenshot();
+
         unHighlightElement(element);
         return this;
     }

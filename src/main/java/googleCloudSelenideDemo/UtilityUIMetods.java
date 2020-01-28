@@ -4,6 +4,7 @@ import com.codeborne.selenide.SelenideElement;
 import io.qameta.allure.Attachment;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import reporting.MyLogger;
 
 import java.io.File;
@@ -14,6 +15,11 @@ import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 public class UtilityUIMetods {
 
     private static final String SCREENSHOTS_NAME_TPL = "screenshots/scr";
+
+    public static void waitUntilPageIsCompletelyLoaded(WebDriver driver, int timeout) {
+        new WebDriverWait(driver, timeout).until(
+                webDriver -> ((JavascriptExecutor) webDriver).executeScript("return document.readyState").equals("complete"));
+    }
 
     public static void highlightElement(SelenideElement element) {
         ((JavascriptExecutor) getWebDriver()).executeScript("arguments[0].style.border='5px solid green'", element);
