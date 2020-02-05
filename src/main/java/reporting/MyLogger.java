@@ -8,12 +8,12 @@ public class MyLogger {
 
     private static final Logger LOGGER = LogManager.getLogger(MyLogger.class);
 
-    @Step("Log successful test step")
+    @Step
     public static void info(String message) {
         LOGGER.info(message);
     }
 
-    @Step("Log test step with error")
+    @Step
     public static void error(String message) {
         LOGGER.error(message);
     }

@@ -31,7 +31,7 @@ public class RestAssuredDemoTests {
         User user = new User();
         String username = "user" + (new Random().nextInt(1000));
         user.setUsername(username);
-        user.setCoinCount("2089");
+        user.setCoinCount("67");
         postRequestForUser(user);
         assertEquals(user, getRequestToUser(username)
                 .as(User.class));
