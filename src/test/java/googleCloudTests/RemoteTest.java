@@ -4,7 +4,6 @@ import com.codeborne.selenide.Configuration;
 import googleCloudSelenideDemo.businessObjects.AssertionOfVariableAndValue;
 import googleCloudSelenideDemo.pages.GoogleCloudCalculatorPage;
 import googleCloudSelenideDemo.pages.Page;
-import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
