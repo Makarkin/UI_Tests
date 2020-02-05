@@ -13,20 +13,20 @@ import static restAssuredDemo.TestMethodLoggingWrapper.*;
 
 public class RestAssuredDemoTests {
 
-    @Test
+    @Test(description = "Check default response status and header.")
     public void testStatusAndHeaderForGetRequest() {
         ValidatableResponse response = getRequestToUser("").then();
         verifyResponseStatus(response, 200);
         verifyResponseHeader(response, "application/json");
     }
 
-    @Test
+    @Test(description = "Check search response for \"admin\" user.")
     public void testGetExistingUser() throws InvocationTargetException, NoSuchMethodException, IllegalAccessException, IOException {
         assertEquals(User.getUserFromProperties(), getRequestToUser("admin")
                 .as(User.class));
     }
 
-    @Test
+    @Test(description = "Create and check search response for new user.")
     public void testPostNewUser() {
         User user = new User();
         String username = "user" + (new Random().nextInt(1000));
