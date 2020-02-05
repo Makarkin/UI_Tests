@@ -18,7 +18,7 @@ public class GoogleCloudDemoTests {
     private void config() {
         XmlSuite xmlSuite = new XmlSuite();
         xmlSuite.setParallel(XmlSuite.ParallelMode.METHODS);
-        xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
+//        xmlSuite.setThreadCount(Integer.parseInt(System.getenv("numberOfThreads")));
         System.out.println("Thread count = " + xmlSuite.getThreadCount());
         Configuration.browser = "chrome";
         Configuration.startMaximized = true;
@@ -27,7 +27,7 @@ public class GoogleCloudDemoTests {
         MyLogger.info("Going to URL: https://cloud.google.com/");
     }
 
-    @Test
+    @Test(description = "Test for google.cloud.com price calculator.")
     public void googleCloudTest() {
         open("https://cloud.google.com/");
         GoogleCloudCalculatorPage page = new Page()
