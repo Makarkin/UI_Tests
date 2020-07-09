@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Configure PUBLIC "-//Jetty//Configure//EN" "http://www.eclipse.org/jetty/configure.dtd">
+<Configure class="org.eclipse.jetty.maven.plugin.JettyWebAppContext" xmlns="http://www.eclipse.org/jetty/configure.dtd">
+
+    <New class="org.eclipse.jetty.plus.jndi.Resource">
+        <Arg></Arg>
+        <Arg>SiteUrl</Arg>
+        <Arg>
+            <New class="java.lang.String">
+                <Arg>${TestUrl}</Arg>
+            </New>
+        </Arg>
+    </New>
+</Configure>

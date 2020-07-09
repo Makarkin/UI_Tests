@@ -3,6 +3,9 @@ package seleniumActionDemoPackage.pages;
 import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 
+import java.io.FileInputStream;
+import java.io.IOException;
+
 public class MainPage extends AbstractPage {
     private static final String MAIN_URL = "https://jqueryui.com";
     private static final By DROPPABLE_LINK_LOCATOR = By.cssSelector("a[href$='droppable/']");
@@ -10,7 +13,12 @@ public class MainPage extends AbstractPage {
     private static final By SELECTABLE_LINK_LOCATOR = By.cssSelector("a[href$='selectable/']");
 
     @Step("Open main page")
-    public MainPage open() {
+    public MainPage open() throws IOException {
+        FileInputStream inFile = new FileInputStream("jettyStub.xml");
+        byte[] str = new byte[inFile.available()];
+        inFile.read(str);
+        String text = new String(str);
+        System.out.println(text);
         browser.open(MAIN_URL);
         return this;
     }
