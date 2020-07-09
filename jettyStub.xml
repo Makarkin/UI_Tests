@@ -7,7 +7,7 @@
         <Arg>SiteUrl</Arg>
         <Arg>
             <New class="java.lang.String">
-                <Arg>${TestUrl}</Arg>
+                <Arg>${testURL}</Arg>
             </New>
         </Arg>
     </New>
