@@ -12,7 +12,6 @@
         <java.version>1.8</java.version>
         <aspectj.version>1.8.10</aspectj.version>
         <allure-testng.version>2.6.0</allure-testng.version>
-        <testURL>${env.TestUrl}</testURL>
     </properties>
 
     <dependencies>
