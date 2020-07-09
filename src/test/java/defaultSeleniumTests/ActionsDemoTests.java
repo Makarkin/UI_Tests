@@ -8,6 +8,8 @@ import seleniumActionDemoPackage.pages.ResizablePage;
 import seleniumActionDemoPackage.pages.SelectablePage;
 import reporting.MyLogger;
 
+import java.io.IOException;
+
 public class ActionsDemoTests {
 
     @BeforeTest(description = "init browser")
@@ -17,19 +19,19 @@ public class ActionsDemoTests {
     }
 
     @Test(description = "Drag-n-drop test")
-    public void dragNDropDemo() {
+    public void dragNDropDemo() throws IOException {
         DroppablePage droppablePage = new MainPage().open().openDroppableLink();
         droppablePage.dragNDropSquare();
     }
 
     @Test(description = "Resize test")
-    public void resizeDemo() {
+    public void resizeDemo() throws IOException {
         ResizablePage resizablePage = new MainPage().open().openResizableLink();
         resizablePage.resizeSquare();
     }
 
     @Test(description = "Selecting test")
-    public void selectingDemo() {
+    public void selectingDemo() throws IOException {
         SelectablePage selectablePage = new MainPage().open().openSelectableLink();
         selectablePage.selectItems(5);
     }
