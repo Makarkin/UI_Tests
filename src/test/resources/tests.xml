@@ -1,29 +1,16 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="AT demo" parallel="tests" thread-count="3">
+<suite name="AT demo">
 
-
-    <test name="Actions demo">
+    <test name="Demo tests">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="validLogin" value="fominaelena"/>
+        <parameter name="invalidLogin" value="1fominaelena"/>
+        <parameter name="validPassword" value="1P73BP4Z"/>
+        <parameter name="invalidPassword" value="11P73BP4Z"/>
+        
         <classes>
             <class name="defaultSeleniumTests.ActionsDemoTests"/>
         </classes>
     </test>
-
-    <test name="Cloud Google Test">
-        <classes>
-            <class name="googleCloudTests.GoogleCloudDemoTests"/>
-        </classes>
-    </test>
-
-    <test name="Test for Custom API">
-        <classes>
-            <class name="restTests.RestAssuredDemoTests"/>
-        </classes>
-    </test>
-
-<!--    <test name="Test for parallel remote execution">-->
-<!--        <classes>-->
-<!--            <class name="googleCloudTests.RemoteTest"/>-->
-<!--        </classes>-->
-<!--    </test>-->
 
 </suite>
